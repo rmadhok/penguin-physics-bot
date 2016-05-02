@@ -1,0 +1,1900 @@
+Gravity duals for logarithmic conformal field theories
+A landscape of non-supersymmetric AdS vacua on coset manifolds
+Multi-Stream Inflation: Bifurcations and Recombinations in the  Multiverse
+Minimal Inflation
+Exact Results and Holography of Wilson Loops in N=2 Superconformal  (Quiver) Gauge Theories
+Gravity assisted solution of the mass gap problem for pure Yang-Mills  fields
+Reconstruction of Baxter Q-operator from Sklyanin SOV for cyclic  representations of integrable quantum models
+Seven-Dimensional Gravity with Topological Terms
+Disk relations for tree amplitudes in minimal coupling theory of gauge  field and gravity
+Frame-Like Action and Unfolded Formulation for Massive Higher-Spin  Fields
+D=11 supergravity with manifest supersymmetry
+Chiral Algebras of (0,2) Models
+Complex Elliptic Pendulum
+Singularities in Horava-Lifshitz theory
+The gauging of BV algebras
+Reconstruction of k-essence model
+Casimir Energy of the Universe and New Regularization of Higher  Dimensional Quantum Field Theories
+The No-Boundary Measure in the Regime of Eternal Inflation
+Bosons, fermions and anyons in the plane, and supersymmetry
+Generalized Gravi-Electromagnetism
+Acoustic black holes for relativistic fluids
+Branes and massive IIA duals of 3d CFT's
+Matrix Model and Elliptic Curve
+On Geodesic Motion in Horava-Lifshitz Gravity
+A simple strategy for renormalization: QED at one-loop level
+On the unitarity of linearized General Relativity coupled to matter
+Intersecting Flavor Branes
+Generalized scaling function from light-cone gauge AdS_5 x S^5  superstring
+Vanishing Chiral Algebras and Hohn-Stolz Conjecture
+MSHSM - Minimal Standard Heterotic String Models
+Quantum corrections from a path integral over reparametrizations
+Geometric flows in Horava-Lifshitz gravity
+Towards Lagrangian formulations of mixed-symmetry Higher Spin Fields on  AdS-space within BFV-BRST formalism
+Spacing of the entropy spectrum for KS Black hole in Horava-Lifshitz  gravity
+Thermodynamics of Photon Gas with an Invariant Energy Scale
+Thermodynamics of higher dimensional topological charged AdS black  branes in dilaton gravity
+Off-critical Luttinger Junctions
+Black holes and asymptotically safe gravity
+Strong obstruction of the Berends-Burgers-van Dam spin-3 vertex
+Non-Abelian Confinement in N=2 Supersymmetric QCD: Duality and Kinks on  Confining Strings
+Massive Quantum Liquids from Holographic Angel's Trumpets
+Unstable Hadrons in Hot Hadron Gas in Laboratory and in the Early  Universe
+Surface operators in four-dimensional topological gauge theory and  Langlands duality
+Glassy Phase Transition and Stability in Black Holes
+Multiple D$_p$-branes as a D$_{p+2}$-brane
+Hidden symmetries for thermodynamics and emergence of relativity
+Spin Foam State Sums and Chern-Simons Theory
+Unidexterously Constrained Worldsheet Superfields
+Discussing Quantum Aspects of Higher-Derivative 3D-Gravity in the  First-Order Formalism
+Gravity with de Sitter and Unitary Tangent Groups
+Emergent Gravity at a Lifshitz Point from a Bose Liquid on the Lattice
+Quantum phase transitions in holographic models of magnetism and  superconductors
+Skyrmions, instantons and holography
+Entropy and Temperature From Black-Hole/Near-Horizon-CFT Duality
+On Classical de Sitter Vacua in String Theory
+Approximate R-symmetries and the mu term
+Gribov horizon and BRST symmetry: a pathway to confinement
+Dynamical supersymmetry of spin particle-magnetic field interaction
+Phase structure of Topologically massive gauge theory with fermion
+BRST Lagrangian construction for spin-3/2 field in Einstein space
+In-medium effects in the holographic quark-gluon plasma
+Supersymmetric Extension of GCA in 2d
+Generalized N = 2 Super Landau Models
+Note on Light-like Tachyon Condensation
+B-L Cosmic Strings in Heterotic Standard Models
+Observing the Dimensionality of Our Parent Vacuum
+Conserved supercurrents and Fayet-Iliopoulos terms in supergravity
+A Derivation Of The Scalar Propagator In A Planar Model In Curved Space
+Planck Scale Effect in the Entropic Force Law
+On effective actions of BPS branes and their higher derivative  corrections
+Holographic superconductors in a model of non-relativistic gravity
+Moduli Redefinitions and Moduli Stabilisation
+A brief overview of quantum field theory with deformed symmetries and  their relation with quantum gravity
+Multiple M-wave interaction with fluxes
+Non-monotonic thermal Casimir force from geometry-temperature interplay
+On the consistency of the Horava Theory
+Cosmic Strings Collision in Cosmological Backgrounds
+Supersymmetric Electromagnetic Waves on Giants and Dual-Giants
+Noncommutativity and Duality through the Symplectic Embedding Formalism
+Brane f(R) gravity cosmologies
+Dynamical Instability of Holographic QCD at Finite Density
+Eisenstein series for higher-rank groups and string theory amplitudes
+On Relations Between Electroweak Hierarchy Problem, Fluctuating Three  Branes And General Covariance
+Higgs effect in consistent Kaluza-Klein models with branes
+Light-like polygonal Wilson loops in 3d Chern-Simons and ABJM theory
+From Surface Operators to Non-Abelian Volume Operators in Puff Field  Theory
+A dynamical symmetry for supermembranes
+The Bekenstein Bound in Asymptotically Free Field Theory
+Generalized BRST transformation in Abelian rank-2 antisymmetric tensor  field theory
+Causal Dynamical Triangulations and the Quest for Quantum Gravity
+Toward Large N Thermal QCD from Dual Gravity: The Heavy Quarkonium  Potential
+Membranes with Topological Charge and AdS4/CFT3 Correspondence
+Noncommutative Geometry as a Framework for Unification of all  Fundamental Interactions including Gravity. Part I
+Perturbative Quantum Gravity as a Double Copy of Gauge Theory
+Supercharges, Quantum States and Angular Momentum for N=4 Supersymmetric  Monopoles
+Three Dimensional Origin of AdS_2 Quantum Gravity
+Quantum Gravitational Corrections to the Real Klein-Gordon Field in the  Presence of a Minimal Length
+QP-Structures of Degree 3 and 4D Topological Field Theory
+Born-Infeld-Horava gravity
+Defect CFTs and holographic multiverse
+Modifying the Sum Over Topological Sectors and Constraints on  Supergravity
+Local and Global Casimir Energies: Divergences, Renormalization, and the  Coupling to Gravity
+Notes on beta-deformations of the pure spinor superstring in AdS(5) x  S(5)
+A D2-brane in the Penrose limits of AdS(4)x CP(3)
+Large Nonlocal Non-Gaussianity from a Curvaton Brane
+String Embeddings of the Pentagon
+An Efficient Method for the Solution of Schwinger--Dyson equations for  propagators
+Photo-emission rate of sQGP at finite density
+Split Flows in Bubbled Geometries
+Leading-Order Actions of Goldstino Fields
+Toward a first-principle derivation of confinement and  chiral-symmetry-breaking crossover transitions in QCD
+The Hypermultiplet with Heisenberg Isometry in N=2 Global and Local  Supersymmetry
+Thermodynamics and Cosmological Constant of Non-Local Field Theories  from p-Adic Strings
+Bound of Noncommutativity Parameter Based on Black Hole Entropy
+Action-angle variables for dihedral systems on the circle
+The universal viscosity to entropy density ratio from entanglement
+Lie Group S-Expansions and Infinite-dimensional Lie algebras
+Schwarzschild Geometry Emerging from Matrix Models
+S-matrix for magnons in the D1-D5 system
+Divergences in quantum field theory on the noncommutative  two-dimensional Minkowski space with Grosse-Wulkenhaar potential
+Fractional and semi-local non-Abelian Chern-Simons vortices
+Electronic zero modes of vortices in Hall states of gapped graphene
+Towards a Resolution of the Cosmological Singularity in Non-local Higher  Derivative Theories of Gravity
+Perturbations of anti-de Sitter black holes
+Non-equilibrium Condensation Process in a Holographic Superconductor
+Symmetry constraints on generalizations of Bjorken flow
+Spin Chains in N=2 Superconformal Theories: from the Z_2 Quiver to  Superconformal QCD
+Three-Algebras in N = 5, 6 Superconformal Chern-Simons Theories:  Representations and Relations
+Some Aspects on Non-commutative Theories with a compactified  Extra-Dimension
+Entanglement Renyi entropies in holographic theories
+Heavy Quarkonium Melting in Large N Thermal QCD
+Semiclassical Regge trajectories of noncritical string and large-N QCD
+Bimetric Renormalization Group Flows in Quantum Einstein Gravity
+The Effect of Gravitational Tidal Forces on Vacuum Polarization: How to  Undress a Photon
+Framed BPS States
+On Holographic description of the Kerr-Newman-AdS-dS black holes
+Mathieu twining characters for K3
+Fermionic vacuum polarization by a cosmic string in de Sitter spacetime
+On Abelian Gauge Symmetries and Proton Decay in Global F-theory GUTs
+All the timelike supersymmetric solutions of all ungauged d=4  supergravities
+More on Asymptotically Anti-de Sitter Spaces in Topologically Massive  Gravity
+Kink dynamics, sinh-Gordon solitons and strings in AdS(3) from the  Gross-Neveu model
+On Lovelock vacuum solution
+Geometric entropy and third order phase transition in d=4 N=2 SYM with  flavor
+SU(2) reductions in N=4 multidimensional supersymmetric mechanics
+Quantum amplification effect in a horizon fluctuations
+The Stuckelberg Holographic Superconductors in Constant External  Magnetic Field
+Triality in SU(2) Seiberg-Witten theory and Gauss hypergeometric  function
+A Note on G-Fluxes for F-theory Model Building
+Shocks and Universal Statistics in (1+1)-Dimensional Relativistic  Turbulence
+Dirac Gauginos, Negative Supertraces and Gauge Mediation
+Galilean Genesis: an alternative to inflation
+Instantons on Gravitons
+KLT and New Relations for N=8 SUGRA and N=4 SYM
+Spin 3 cubic vertices in a frame-like formalism
+Massive Three-Dimensional Supergravity From R+R^2 Action in Six  Dimensions
+Model Independent Signatures of New Physics in the Inflationary Power  Spectrum
+Dynamical Fermion Masses Under the Influence of Kaluza-Klein Fermions  and a Bulk Abelian Gauge Field
+A Direct Proof of BCFW Recursion for Twistor-Strings
+Heterotic MSSM on a Resolved Orbifold
+10 + 1 to 3 + 1 in an Early Universe with mutually BPS Intersecting  Branes
+Heterotic compactifications on nearly Kahler manifolds
+Exponential suppression with four legs and an infinity of loops
+Fermi arcs from holography
+Extended Holomorphic Anomaly in Gauge Theory
+Chaos in the Gauge/Gravity Correspondence
+Feynman amplitudes and Landau singularities for 1-loop graphs
+Algebraic Structures in local QFT
+Non-Linear Sigma Model and asymptotic freedom at the Lifshitz point
+The classifying algebra for defects
+How higher-spin gravity surpasses the spin two barrier: no-go theorems  versus yes-go examples
+Higher Derivative Brane Couplings from T-Duality
+Generalization of the Fierz-Pauli Action
+IR divergence does not affect the gauge-invariant curvature perturbation
+Continuous Hawking-Page transitions in Einstein-scalar gravity
+Wall-crossing from supersymmetric galaxies
+Dual Superconformal Symmetry of N=6 Chern-Simons Theory
+Imperfect Dark Energy from Kinetic Gravity Braiding
+General Solutions of Braneworlds under the Schwarzschild Ansatz
+A modular invariant bulk theory for the c=0 triplet model
+Cosmic strings from pseudo-anomalous Fayet-Iliopoulos U(1) in D3/D7  brane inflation
+Magnetic Branes Supported by Nonlinear Electromagnetic Field
+Thermodynamics of Rotating Black Branes in Gauss-Bonnet-nonlinear  Maxwell Gravity
+Chameleonic dilaton, nonequivalent frames, and the cosmological constant  problem in quantum string theory
+Affleck-Dine Baryogenesis in Effective Supergravity
+Rotating Black Branes in the presence of nonlinear electromagnetic field
+Gauged WZW Models Via Equivariant Cohomology
+Fragile Black Holes
+Galilean quantum gravity with cosmological constant and the extended  q-Heisenberg algebra
+Structure of the broken phase of the sine-Gordon model using functional  renormalization
+Yangian in the Twistor String
+The General Type N Solution of New Massive Gravity
+A monopole solution in a Lorentz-violating field theory
+Brane Realizations of Quantum Hall Solitons and Kac-Moody Lie Algebras
+EPRL/FK Group Field Theory
+Quantization of Fayet-Iliopoulos Parameters in Supergravity
+Orientifolded Locally AdS3 Geometries
+Some C*-algebras associated to quantum gauge theories
+Slowly Rotating Black Holes in Einstein-Generalized Maxwell Gravity
+The role of photon polarization modes in the magnetization and  instability of the vacuum in a supercritical field
+N = 1 SCFTs from Brane Monodromy
+Cascades with Adjoint Matter: Adjoint Transitions
+No-Ghost Theorem for Neveu-Schwarz String in 0-Picture
+The Surface Layers Dual to Hydrodynamic Boundaries
+D=4 Extended Galilei Superalgebras with Central Charges
+First order parent formulation for generic gauge field theories
+Induced self-energy on a static scalar charged particle in the spacetime  of a global monopole with finite core
+Comments on regularization of identity based solutions in string field  theory
+Gauge/Gravity Duality and Some Applications
+Stability of spin-0 graviton and strong coupling in Horava-Lifshitz  theory of gravity
+N=2 S-duality via Outer-automorphism Twists
+AGT on the S-duality Wall
+Quantum Gravity Corrections and Entropy at the Planck time
+Towards a Basis for Planar Two-Loop Integrals
+Higher derivative corrections in holographic Zamolodchikov-Polchinski  theorem
+Hermitian Yang-Mills instantons on resolutions of Calabi-Yau cones
+Gauge theory duals of black hole - black string transitions of  gravitational theories on a circle
+Refined topological amplitudes in N=1 flux compactification
+On domain walls in a Ginzburg-Landau non-linear S^2-sigma model
+Thermodynamic Geometry and Hawking Radiation
+Special limits and non-relativistic solutions
+Effects of heavy modes on vacuum stability in supersymmetric theories
+Complex matrix model duality
+Primordial non-Gaussianity from the DBI Galileons
+On the Tensionless Limit of String theory, Off - Shell Higher Spin  Interaction Vertices and BCFW Recursion Relations
+Viscosity near phase transitions
+Q-balls with scalar charges
+a-Maximization in N=1 Supersymmetric Spin(10) Gauge Theories
+The gauge invariant quark Green's function in two-dimensional QCD
+Stable causality of the Pomeransky-Senkov black holes
+On The Relativistic Classical Motion of a Radiating Spinning Particle in  a Magnetic Field
+Observational signatures of holographic models of inflation
+Graviton mass and cosmological constant: a toy model
+Stabilizing the Complex Structure in Heterotic Calabi-Yau Vacua
+On-shell constructibility of tree amplitudes in general field theories
+Light-Like Noncommutativity, Light-Front Quantization and New Light on  UV/IR Mixing
+Correlation functions for Galilean conformal invariant field theory
+Flavour-Condensate-induced Breaking of Supersymmetry in Free Wess-Zumino  Fluids
+Refined Wall-Crossing, Free Fermions and Crystal Melting
+Interacting HDE and NADE in Brans-Dicke Chameleon Cosmology
+Holographic Quantum Critical Transport without Self-Duality
+Magnetic Catalysis of Chiral Symmetry Breaking. A Holographic  Prospective
+Generalized Unitarity and Six-Dimensional Helicity
+Determinants and conformal anomalies of GJMS operators on spheres
+Deformed Skyrme Crystals
+Vortices and Jacobian varieties
+Microscopics of Extremal Kerr from Spinning M5 Branes
+Exact indices for D-particles, flow trees and the derived category
+Holographic Superconductors and Higher Curvature Corrections
+Singular Monopoles from Cheshire Bows
+Universal Area Product Formulae for Rotating and Charged Black Holes in  Four and Higher Dimensions
+Noncommutative Particles in Curved Spaces
+Two-dimensional topological field theories as taffy
+Light-cone Gauge NSR Strings in Noncritical Dimensions II -- Ramond  Sector
+Towards a non-anthropic solution to the cosmological constant problem
+Quantum tunneling as a classical anomaly
+M5-brane Defect and QHE in AdS_4 x N(1,1)/N=3 SCFT
+Higher Spin Interacting Quantum Field Theory and Higher Order Conformal  Invariant Lagrangians
+On some models of geometric noncommutative general relativity
+Holographic entanglement entropy: near horizon geometry and disconnected  regions
+Massive Gravity: Exorcising the Ghost
+On Type IIA geometries dual to N = 2 SCFTs
+Embedding (R+R^2)-Inflation into Supergravity
+Back reaction, emission spectrum and entropy spectroscopy
+On the Bogomol'nyi bound in Einstein-Maxwell-dilaton gravity
+Boltzmann Equation for Relativistic Neutral Scalar Field in  Non-equilibrium Thermo Field Dynamics
+W-algebras and surface operators in N=2 gauge theories
+A quantum isomonodromy equation and its application to N=2 SU(N) gauge  theories
+Symmetries of Self-Dual Yang-Mills Equations Dimensionally Reduced From  (2,2) Space-time
+N=2 supergravity and supercurrents
+Higher Spins and Open Strings: Quartic Interactions
+On topological field theory representation of higher analogs of  classical special functions
+Three-point correlation functions from semiclassical circular strings
+Holographic Non-Gaussianity
+Lectures on Scattering Amplitudes in String Theory
+A Walk Through Superstring Theory With an Application to Yang-Mills  Theory: K-strings and D-branes as Gauge/Gravity Dual Objects
+Quantum gauge fields and flat connections in 2-dimensional BF theory
+Continuum Limit of gl(M/N) Spin Chains
+Using the D1D5 CFT to Understand Black Holes
+Null cosmological singularities and free strings: II
+The first order hydrodynamics via AdS/CFT correspondence in the  Gauss-Bonnet gravity
+Solitons as Probes of the Structure of Holographic Superfluids
+Vortex flow for a holographic superconductor
+Quantum black holes, localization and the topological string
+Traveling solitons in Lorentz-violating systems
+Vacuum decay into Anti de Sitter space
+Fermions from the gauge models ground state
+The landscape of the Hubbard model
+SUSY QM Meets 5d Gravity
+A simple supersymmetric extension of K field theories
+Review of the N-quantum Approach to Bound States
+Phase Structure of Confining Theories on R^3 x S^1
+Casimir Effect at finite temperature for the Kalb-Ramond field
+Entropic Corrections to Einstein Equations
+Thermodynamics of apparent horizon and modified Friedman equations
+Massive charged particle's tunneling from spherical charged black hole
+Thermodynamics on the Maximally Symmetric Holographic Screen and Entropy  from Conical Singularities
+Negative mode of Schwarzschild black hole from the thermodynamic  instability
+Introductory Lectures on Multiple Membranes
+Chiral Modulations in Curved Space I: Formalism
+Finite-size corrections for quantum strings on AdS_4 x CP^3
+Noncommutative Solitons and Quasideterminants
+A Proof of the Explicit Minimal-basis Expansion of Tree Amplitudes in  Gauge Field Theory
+An Ignoble Approach to Large Field Inflation
+Gauged M-flation, its UV sensitivity and Spectator Species
+Supersymmetry Breaking, Moduli Stabilization and Hidden U(1) Breaking in  M-Theory
+Gauge invariant coupling of fields to torsion: a string inspired model
+Open strings in the system D5/D9
+Large Dimensions and Small Curvatures from Supersymmetric Brane  Back-reaction
+Noncommutative Black Holes and the Singularity Problem
+Low temperature properties of holographic condensates
+General holographic superconductor models with backreactions
+Bulk matter fields on two-field thick branes
+Observables in the General Boundary Formulation
+Self-Duality of Green-Schwarz Sigma-Models
+Cosmological properties of a generic (\cal R)^2-supergravity
+Fermionic T-duality and Morita Equivalence
+Quantization of general linear electrodynamics
+New quantum gravity effect, dark energy, accelerating universe, black  hole and experimental scheme using superfluid Helium and atom interferometer
+Index for three dimensional superconformal field theories with general  R-charge assignments
+Degeneracy of the classical SU(2) vacuum with a non-trivial center  vortex state
+Predictions of a fundamental statistical picture
+Diffeomorphisms in group field theories
+Holographic non-Fermi liquid fixed points
+Gauge/String Duality, Hot QCD and Heavy Ion Collisions
+Stabilizing All Geometric Moduli in Heterotic Calabi-Yau Vacua
+Easy Dirac Gauginos
+An Introduction to Counting Orbifolds
+Hawking radiation of scalar particles from accelerating and rotating  black holes
+Pulling the straps of polygons
+Quantum tunneling and spectroscopy of noncommutative inspired Kerr black  hole
+On W-algebras and the symmetries of defects of 6d N=(2,0) theory
+Correspondence between the contracted BTZ solution of cosmological  topological massive gravity and two-dimensional Galilean conformal algebra
+Some exact solutions of F(R) gravity with charged (a)dS black hole  interpretation
+Towards Matter Inflation in Heterotic String Theory
+Covariant Approach of the Dynamics of Particles in External Gauge  Fields, Killing Tensors and Quantum Gravitational Anomalies
+Yangian symmetry of boundary scattering in AdS/CFT and the explicit form  of bound state reflection matrices
+The Standard Model and The Four Dimensional Superstring
+Quasi Normal Modes for New Type Black Holes in New Massive Gravity
+Massless particles on supergroups and AdS3 x S3 supergravity
+Vertices, Vortices & Interacting Surface Operators
+Non-commutative holographic QCD and DC conductivity
+Stochastic growth of quantum fluctuations during inflation
+Radiation by a heavy quark in N=4 SYM at strong coupling
+Charting the landscape of N=4 flux compactifications
+Kazhdan-Lusztig equivalence and fusion of Kac modules in Virasoro  logarithmic models
+Open topological strings and integrable hierarchies: Remodeling the  A-model
+Seven-Dimensional Super-Yang-Mills Theory in N=1 Superfields
+Ramification Points of Seiberg-Witten Curves
+F-theory GUTs with U(1) Symmetries: Generalities and Survey
+Finite Temperature Structure of the Compactified Standard Model
+Supersymmetric Galileons
+Soliton-antisoliton pair production in particle collisions
+Charge Lattices and Consistency of 6D Supergravity
+Supersymmetry of consistent massive truncations of IIB supergravity
+On factorizations in perturbative quantum gravity
+Super Yang-Mills Theory with Impurity Walls and Instanton Moduli Spaces
+An Exact Conformal Symmetry Ansatz on Kaluza-Klein Reduced TMG
+CPT Violation Does Not Lead to Violation of Lorentz Invariance and Vice  Versa
+A Superspace Formulation of The BV Action for Higher Derivative Theories
+Infrared scaling solutions beyond the Landau gauge: The maximally  Abelian gauge and Abelian infrared dominance
+Schwinger Pair Creation of Particles and Strings
+Four ways across the wall
+Cosmological Daemon
+Cosmological UV/IR Divergences and de-Sitter Spacetime
+CMB Fluctuations and String Compactification Scales
+A Color Dual Form for Gauge-Theory Amplitudes
+From lightcone actions to maximally supersymmetric amplitudes
+Response to Shalaby's Comment on "Families of Particles with Different  Masses in PT-Symmetric Quantum Field Theory"
+Generalized Self-Duality Equations of Polynomial Type in Yang-Mills  Theories
+Generalized Massive Gravity and Galilean Conformal Algebra in two  dimensions
+Spectral Action from Anomalies
+On the $AdS_5/CFT_4$ TBA and its analytic properties
+Hair in the Back of a Throat: Non-Supersymmetric Multi-Center Solutions  from Kahler Manifolds
+M2-Branes and Fano 3-folds
+Cosmological observables, IR growth of fluctuations, and scale-dependent  anisotropies
+A Black Ring with two Angular Momenta in Taub-NUT
+Relativistic diffusion in random gluon fields
+Two-Center Black Holes, Qubits and Elliptic Curves
+de Sitter Galileon
+The Jackiw-Pi model and its symmetries
+On the renormalisation group for the boundary Truncated Conformal Space  Approach
+TASI lectures on complex structures
+Extended BRST formulation of a non-commutative U(1) gauge model
+Multi-sine-Gordon Models
+Uniqueness and nonuniqueness of the stationary black holes in 5D  Einstein-Maxwell and Einstein-Maxwell-dilaton gravity
+Supersymmetric QCD: Exact Results and Strong Coupling
+Seiberg-like duality in three dimensions for orthogonal gauge groups
+Pairs Emission in a Uniform Background Field: an Algebraic Approach
+N=2 Dualities and Z Extremization in Three Dimensions
+Classical and quantum mechanics of the nonrelativistic Snyder model
+Phase Structure of Kerr-AdS Black Hole
+The unification of inflation and late-time acceleration in the frame of  $k$-essence
+Higgs Mechanism for New Massive Gravity and Weyl Invariant Extensions of  Higher Derivative Theories
+Losing information outside the horizon
+Ghosts of Critical Gravity
+Supersymmetric States in Large N Chern-Simons-Matter Theories
+Conical Casimir Pistons with Hybrid Boundary Conditions
+Exact Superconformal and Yangian Symmetry of Scattering Amplitudes
+Worldsheet Supersymmetry of Pohlmeyer-Reduced AdS_n x S^n Superstrings
+Holographic de Sitter Universe
+Geometry of a desingularization of eleven-dimensional gravitational  spinors
+Dressing cosets revisited
+From Quantum Gravity to Quantum Field Theory via Noncommutative Geometry
+Seeking String Theory in the Cosmos
+Exact Large R-charge Correlators in ABJM Theory
+Making predictions in the multiverse
+Nonlinear superhorizon perturbations in Horava-Lifshitz gravity
+Tachyon Reconstruction of Ghost Dark Energy
+Generalized coordinate Bethe ansatz for non diagonal boundaries
+Instanton counting with a surface operator and the chain-saw quiver
+Topics In Large Volume Swiss-Cheese Compactification Geometries
+Gauss-Bonnet Black Holes and Heavy Fermion Metals
+Self Regulation of Infrared Correlations for Massless Scalar Fields  during Inflation
+Inflation with large supergravity corrections
+D-brane Construction of the 5D NHEK Dual
+Acceleration-Induced Deconfinement Transitions in de Sitter Spacetime
+Classical integrability in the BTZ black hole
+On the Stability of Non-Supersymmetric Quantum Attractors in String  Theory
+Realization of Chiral Symmetry in the ERG
+Divergences in QFT on the Noncommutative Minkowski Space with  Grosse-Wulkenhaar potential
+Recent developments in non-Abelian T-duality in string theory
+One-loop adjoint masses for non-supersymmetric intersecting branes
+Hawking Radiation as tunneling and the unified first law of  thermodynamics for a class of dynamical black holes
+From D3-Branes to Lifshitz Space-Times
+A Toolkit for Perturbing Flux Compactifications
+Non-Abelian statistics versus the Witten anomaly
+Black Strings in Horava-Lifshitz Gravity
+Supercurrents and Brane Currents in Diverse Dimensions
+Perturbative Gravity and Gauge Theory Relations -- A Review
+Bose-Einstein Condensation on Product Manifolds
+Enhanced CMBR non-Gaussianities from Lorentz violation
+Categorifying the Knizhnik-Zamolodchikov Connection
+RR photons
+On the Minimal Length Uncertainty Relation and the Foundations of String  Theory
+Logarithmic Corrections to N=4 and N=8 Black Hole Entropy: A One Loop  Test of Quantum Gravity
+Extremal black holes, Holography & Coarse graining
+Horava-Lifshitz Quantum Cosmology
+On the Tree-Level Structure of Scattering Amplitudes of Massless  Particles
+Cosmic Bounces and Cyclic Universes
+Dirac fermions in strong gravitational fields
+Spinless bosons embedded in a vector Duffin-Kemmer-Petiau oscillator
+Dual doubled geometry
+BMS charge algebra
+Anomaly Induced Transport in Arbitrary Dimensions
+String theory of the Omega deformation
+Discrete to continuum transition in multifractal spacetimes
+Relative locality: A deepening of the relativity principle
+Non-geometric Fluxes, Asymmetric Strings and Nonassociative Geometry
+Homology of Lie algebra of supersymmetries and of super Poincare Lie  algebra
+Double Field Theory of Type II Strings
+Moduli space coordinates and excited state g-functions
+Intersecting branes and a standard model realization in matrix models
+Thermodynamical properties of interacting holographic dark energy model  with apparent horizon
+Semiclassical Description of Relativistic Spin without use of Grassmann  variables and the Dirac equation
+Asymptotic W-symmetries in three-dimensional higher-spin gauge theories
+Generalized N=2 Topological Amplitudes and Holomorphic Anomaly Equation
+Chern-Simons Inflation and Baryogenesis
+Green-Schwarz Mechanism in Heterotic (2,0) Gauged Linear Sigma Models:  Torsion and NS5 Branes
+The role of gauge symmetry in spintronics
+Holographic Gravitational Anomaly and Chiral Vortical Effect
+Moving Branes with Background Massless and Tachyon Fields in the Compact  Spacetime
+Toric K3-Fibred Calabi-Yau Manifolds with del Pezzo Divisors for String  Compactifications
+Noncommutative Solitonic Black Hole
+F-theory Yukawa Couplings and Supersymmetric Quantum Mechanics
+PT symmetry in relativistic quantum mechanics
+Violation of the first law of black hole thermodynamics in $f(T)$  gravity
+General Hidden Conformal Symmetry of 4D Kerr-Newman and 5D Kerr Black  Holes
+Holographic Renormalization for Fermions in Real Time
+A Relativistic Relative of the Magnon S-Matrix
+Towards New Membrane Flow from de Wit-Nicolai Construction
+Baxter operators for arbitrary spin II
+Pure 4-geometry of quantum magnetic spin matter from Kondo effect
+Nonstandard Parafermions and String Compactification
+Comments on (super)luminality
+A-polynomial, B-model, and Quantization
+Self-dual gravitational instantons and geometric flows of all Bianchi  types
+Bubble collisions and measures of the multiverse
+Summing Planar Diagrams by an Integrable Bootstrap
+Models for Little Rip Dark Energy
+Fisher Equation for a Decaying Brane
+Ab Initio Estimates of the Size of the Observable Universe
+Populating the Whole Landscape
+Quantum mechanics for relativistic bosons
+Killing-Yano tensors and some applications
+Asymptotically de Sitter and anti-de Sitter Black Holes with Confining  Electric Potential
+Dissipative force on an external quark in heavy quark cloud
+Repulsive Casimir-Polder forces from cosmic strings
+Dynamical Symmetry Breaking with Four-Superfield Interactions
+AdS segment and hidden conformal symmetry in general non-extremal black  holes
+Solving Noether's equations for gauge invariant local Lagrangians of N  arbitrary higher even spin fields
+Some remarks on D-branes and defects in Liouville and Toda field  theories
+A noncommutative geometric approach to the quantum structure of  spacetime
+Path-Integral Bosonization of Massive Gauged Thirring Model
+Nernst branes in gauged supergravity
+What the information paradox is {\it not}
+BPS Saturated String Amplitudes: K3 Elliptic Genus and Igusa Cusp Form
+On the Creation of Scalar Particles in a Flat Robertson-Walker  Space-time
+Quantum statistics and noncommutative black holes
+Technically Natural Cosmological Constant From Supersymmetric 6D Brane  Backreaction
+Beta-ensembles for toric orbifold partition function
+Analytic Coleman-De Luccia Geometries
+de Sitter gauge theories and induced gravities
+Decomposition of entanglement entropy in lattice gauge theory
+4-point correlators in finite-temperature AdS/CFT: jet quenching  correlations
+Anomalies and the Euler characteristic of elliptic Calabi-Yau threefolds
+Time boundary terms and Dirac constraints
+Wilson Loops @ 3-Loops in Special Kinematics
+Emergent Braided Matter of Quantum Geometry
+Towards lattice-regularized Quantum Gravity
+Gravitational thermodynamics and universal holographic duality in  dynamical spacetimes
+Null Geodesics of Charged Black Holes in String Theory
+Collinear and Soft Divergences in Perturbative Quantum Gravity
+A Simple Harmonic Universe
+4d Index to 3d Index and 2d TQFT
+The effective action of Double Field Theory
+Signatures of Supersymmetry from the Early Universe
+Supergravity for Effective Theories
+Entanglement generation outside a Schwarzschild black hole and the  Hawking effect
+Qubits from extra dimensions
+A spin-4 analog of 3D massive gravity
+On Three-Dimensional Mirror Symmetry
+Symmetry breaking and restoration in Lifshitz type theories
+Generalized Mirror Symmetry and Quantum Black Hole Entropy
+Tilted Ekpyrosis
+Transport in Anisotropic Superfluids: A Holographic Description
+On Asymptotic Darkness in Horava-Lifshitz Gravity
+Violation of the holographic bulk viscosity bound
+Supersymmetric Oscillator: Novel Symmetries
+Scalar Quantum Field Theory on Fractals
+Classical and quantum mechanics of the nonrelativistic Snyder model in  curved space
+Black Five-Branes and Fluxbranes on Gravitational Instantons
+Wall-crossing, Rogers dilogarithm, and the QK/HK correspondence
+AdS backgrounds from black hole horizons
+Quantum Scalar Field in D-dimensional de Sitter Spacetimes
+Thermalization of mutual and tripartite information in strongly coupled  two dimensional conformal field theories
+On Integrability of spinning particle motion in higher-dimensional black  hole spacetimes
+Eternal Symmetree
+Diagnostics of plasma photoemission at strong coupling
+On S-duality of 5d super Yang-Mills on S^1
+Constraints on String Cosmology
+Solving the AdS/CFT Y-system
+Noncommutative geometry of phase space
+Electrified branes
+On the triviality of higher derivative thoeries
+Weak coupling large-N transitions at finite baryon density
+Induced vacuum energy-momentum tensor in the background of a cosmic  string
+Scattering in ABJ theories
+On correlation functions of Wilson loops, local and non-local operators
+Strongly-Coupled Quarks and Colorful Black Holes in AdS/CFT
+Towards A Background Independent Quantum Gravity
+On Braneworld Inflation Models in Light of WMAP7 data
+From Scattering Amplitudes to the Dilatation Generator in N=4 SYM
+The Coset Spin-4 Casimir Operator and Its Three-Point Functions with  Scalars
+Gauge invariances of higher derivative Maxwell-Chern-Simons field theory  -- a new Hamiltonian approach
+Chronology protection in stationary 3D spacetimes
+On the perturbative generation of the higher-derivative Lorentz-breaking  terms
+Fermionic Casimir densities in a conical space with a circular boundary  and magnetic flux
+M-Theory on Deformed Superspace
+Toward Higher Spin dS3/CFT2
+On 'Nothing'
+Heavy quarks in a magnetic field
+Renormalization group invariance in the Pinch Technique
+A note on the integral equation for the Wilson loop in N = 2 D=4  superconformal Yang-Mills theory
+Duality Invariant Actions and Generalised Geometry
+Higher derivative type II string effective actions, automorphic forms  and E11
+Target Space Dualities of Heterotic Grand Unified Theories
+Spin Non-commutativity and the Three-Dimensional Harmonic Oscillator
+Spacetime Symmetries and Z_3-graded Quark Algebra
+Refined Hopf Link Revisited
+Partition Functions on the Euclidean Plane with Compact Boundaries in  Conformal and Non-Conformal Theories
+BCJ and KK Relations from BRST Symmetry and Supergravity Amplitudes
+The generalized Kaehler geometry of N=(2,2) WZW-models
+Bound States in the Mirror TBA
+Thermodynamics of SU(N) Yang-Mills theories in 2+1 dimensions II - The  deconfined phase
+Homological algebra of knots and BPS states
+Supersymmetric Double Field Theory: Stringy Reformulation of  Supergravity
+Scalar Casimir Energies of Tetrahedra
+Perturbations of moving membranes in AdS_7
+Gravity vs. Quantum theory: Is electron really pointlike?
+On the six-dimensional origin of the AGT correspondence
+On Feynman rules for Mellin amplitudes in AdS/CFT
+Superembedding methods for 4d N=1 SCFTs
+Twinlike models with identical linear fluctuation spectra
+Born-Infeld with Higher Derivatives
+Holographic Symmetry Energy of the Nuclear Matter
+Chiral decomposition in the non-commutative Landau problem
+Relating Gribov-Zwanziger theory and Yang-Mills theory in  Batalin-Vilkovisky formalism
+Energy-momentum tensors with worldline numerics
+Global Space-Time Symmetries of Quantized Euclidean and Minkowski  Superspaces
+Electric dipole moment induced by a QCD instanton in an external  magnetic field
+An Idea of New String Field Theory - Liberating Right and Left Movers -
+The fate of Newton's law in brane-world scenarios
+Hidden singularities and closed timelike curves in a proposed dual for  Lifshitz-Chern-Simons gauge theories
+Multibrane Solutions in Open String Field Theory
+Holographic RG flows and transport coefficients in  Einstein-Gauss-Bonnet-Maxwell theory
+Gravity Dual for Hofman-Strominger Theorem
+N=4 chiral supermultiplet interacting with a magnetic field
+Divergences in Scalar Quantum Field Theory: The Cause and the Cure
+Non-local symmetries for Yang-Mills theories and their massive  counterparts in two and three dimensions
+Towards non-AdS holography in 3-dimensional higher spin gravity
+Gauged Galileons From Branes
+Explicit computation of Drinfeld associator in the case of the  fundamental representation of gl(N)
+Multi-Stream Inflation in a Landscape
+Field dependent nilpotent symmetry for gauge theories
+Covariant gravity with Lagrange multiplier constraint
+Abelian vortices from Sinh--Gordon and Tzitzeica equations
+Boundary state analysis on the equivalence of T-duality and Nahm  transformation in superstring theory
+Wilson loops in noncommutative Yang-Mills theory using gauge/gravity  duality
+Casimir-Polder potential for a metallic cylinder in cosmic string  spacetime
+3D Tensor Field Theory: Renormalization and One-loop $b$-functions
+High Energy Scattering in the Quasi-Potential Approach
+Ultraviolet divergences in extended supergravity
+The tensor structure on the representation category of the  $\mathcal{W}_p$ triplet algebra
+Unitary Truncations and Critical Gravity: a Toy Model
+Symmetry Energy and Universality classes of holographic QCD
+On asymptotic solutions of RFT in zero transverse dimensions
+Conformal Symmetry of a Black Hole as a Scaling Limit: A Black Hole in  an Asymptotically Conical Box
+Resummation of semiclassical short folded string
+Quantum fluids in the Kaehler parametrization
+Equivariant Reduction of U(4) Gauge Theory over S_F^2 x S_F^2 and the  Emergent Vortices
+D-brane anomaly inflow revisited
+Soliton Stars as Holographic Confined Fermi Liquids
+Domain Walls for Two-Dimensional Renormalization Group Flows
+IR Divergences in Inflation and Entropy Perturbations
+Magnetic Response in the Holographic Insulator/Superconductor Transition
+Super-renormalizable Higher-Derivative Quantum Gravity
+All orders renormalizability of a Lorentz and CPT violating quantum  electrodynamics
+N=2 Supersymmetry and U(1)-Duality
+The Primary Spin-4 Casimir Operators in the Holographic SO(N) Coset  Minimal Models
+The Hirota equation for string theory in AdS5xS5 from the fusion of line  operators
+Topics in 3D N=2 AdS supergravity in superspace
+Nonlinear self-duality in N = 2 supergravity
+Thick Brane Split Caused by Spacetime Torsion
+Dirichlet boundary conditions in type IIB superstring theory and  fermionic T-duality
+Scalar and electromagnetic fields of static sources in higher  dimensional Majumdar-Papapetrou spacetimes
+Fluxes and Warping for Gauge Couplings in F-theory
+A Projection to the Pure Spinor Space
+Generating higher-derivative couplings in N=2 supergravity
+Comments on higher-spin holography
+Model-Independent Signatures of New Physics in non-Gaussianity
+Evidence for factorized scattering of composite states in the  Gross-Neveu model
+Stress-energy Tensor Correlators in N-dim Hot Flat Spaces via the  Generalized Zeta-Function Method
+Exceptional Flux Compactifications
+Holographic Pomeron and the Schwinger Mechanism
+Scalar Casimir Energies of Tetrahedra and Prisms
+Strong coupling isotropization of non-Abelian plasmas simplified
+3D N=6 Gauged Supergravity: Admissible Gauge Groups, Vacua and RG Flows
+On classicalization in nonlinear sigma models
+Resolving anti-brane singularities through time-dependence
+Higher Spin Black Holes from CFT
+Decoupling Survives Inflation: A Critical Look at Effective Field Theory  Violations During Inflation
+Quantum Degenerate Systems
+Exact 4-point Scattering Amplitude of the Superconformal Schrodinger  Chern-Simons Theory
+Effects of a Thermal Bath of Photons on Embedded String Stability
+The Godel metric in the Chern-Simons modified gravity
+Intersecting Brane Vacua and Non-perturbative Transitions
+Constructing Gravity Amplitudes from Real Soft and Collinear  Factorisation
+Revisiting Cosmic No-Hair Theorem for Inflationary Settings
+The FGK formalism for black p-branes in d dimensions
+Lorentz invariant CPT violation: Particle and antiparticle mass  splitting
+Four-Dimensional SCFTs from M5-Branes
+Holographic description of three dimensional Godel black hole
+Supersymmetric Gauge Theories on the Five-Sphere
+Jacobi Elliptic Monopole-Antimonopole Pair Solutions
+Soft Gravitons Screen Couplings in de Sitter Space
+Local metrics admitting a principal Killing-Yano tensor with torsion
+The covariance of multi-field perturbations, pseudo-susy and f_NL
+Effective action approach to cosmological perturbations in dark energy  and modified gravity
+Uniqueness of canonical tensor model with local time
+Schwinger-Dyson equations for gauge-invariant correlators
+On the Geometry of Null Polygons in Full N=4 Superspace
+Octonionic black holes
+Helical superconducting black holes
+Large-N reduction for N=2 quiver Chern-Simons theories on S^3 and  localization in matrix models
+SL(2,Z) Action on AdS/BCFT and Hall Conductivities
+Accelerated detectors in Dirac vacuum: the effects of horizon  fluctuations
+Multigluon tree amplitudes with a pair of massive fermions
+Holographic representation of bulk fields with spin in AdS/CFT
+Multibrane solutions in cubic superstring field theory
+Toric bases for 6D F-theory models
+Gauge and Supersymmetric Invariance of a Boundary  Bagger-Lambert-Gustavsson Theory
+Particle Physics from Almost Commutative Spacetimes
+The Casimir effect and mass renormalization for a massive Bosonic string  in background B-field
+Thermal Correlators in Holographic Models with Lifshitz scaling
+Mutation Symmetries in BPS Quiver Theories: Building the BPS Spectra
+Geodesic motion in the space-time of cosmic strings interacting via  magnetic fields
+Hyperbolic vortices with large magnetic flux
+Degeneracy induced scaling of the correlation length for periodic models
+The limit of N=(2,2) superconformal minimal models
+Renormalization of the 2PI Hartree-Fock approximation on de Sitter  background in the broken phase
+Supersymmetric solutions to gauged N=2 d=4 sugra: the full timelike  shebang
+Hopfion canonical quantization
+Black holes and black strings of N=2, d=5 supergravity in the H-FGK  formalism
+The Spin of Holographic Electrons at Nonzero Density and Temperature
+Optical Conductivity with Holographic Lattices
+New superconformal models in six dimensions: Gauge group and  representation structure
+Holographic Entanglement Entropy and Confinement
+Analytic study of Gauss-Bonnet holographic superconductors in  Born-Infeld electrodynamics
+Complex Geometry and Supersymmetry
+Fermion Particle Production in Dynamical Casimir Effect in a Three  Dimensional Box
+On the Derivation of the Exact Slope Function
+Noncommutative deformation of the Ward metric
+Higher loop corrections to a Schwinger--Dyson equation
+Differential geometry construction of anomalies and topological  invariants in various dimensions
+Non-Abelian Localization for Supersymmetric Yang-Mills-Chern-Simons  Theories on Seifert Manifold
+Scaling dimensions at small spin in N=4 SYM theory
+Superconformal Index with Duality Domain Wall
+Twisted Poisson Structures and Non-commutative/non-associative Closed  String Geometry
+Boundary Super-Deformations, Boundary States, and Tachyon Condensation
+Euclidean Pseudoduality and Boundary Conditions in Sigma Models
+Lorentz-invariant CPT violation
+Minimal length, maximal momentum and Hilbert space representation of  quantum mechanics
+Quasi-Single Field Inflation with Large Mass
+Curvature Perturbation Spectrum in Two-field Inflation with a Turning  Trajectory
+On duality symmetry in perturbative quantum theory
+The Multi-Regge limit of NMHV Amplitudes in N=4 SYM Theory
+Constructive Renormalization of 2-dimensional Grosse-Wulkenhaar Model
+Non-minimal Coupling Branes
+New Variables For Graviton Scattering Amplitudes
+Hyperscaling violation from supergravity
+Continuity, Deconfinement, and (Super) Yang-Mills Theory
+Global Poles of the Two-Loop Six-Point N=4 SYM integrand
+On the large N limit of SU(N) lattice gauge theories in five dimensions
+Superembedding methods for 4d N-extended SCFTs
+Bound States of the q-Deformed AdS5 x S5 Superstring S-matrix
+Skyrmions from gravitational instantons
+The string tension from smeared Wilson loops at large N
+The Large N 't Hooft Limit of Kazama-Suzuki Model
+The odd twistor transform in eleven-dimensional supergravity
+Spacetime Emergence and General Covariance Transmutation
+Brane singularities with mixtures in the bulk
+Universality of the Holographic Angular Momentum Cutoff
+Symmetries of N=4 supersymmetric CP(n) mechanics
+Electromagnetic semitransparent $d$-function plate: Casimir  interaction energy between parallel infinitesimally thin plates
+Fractional fermion charges induced by vector-axial and vector gauge  potentials in planar graphene-like structures
+Dark Energy in Modified Supergravity
+M-Brane Models and Loop Spaces
+Type II/F-theory Superpotentials and Ooguri-Vafa Invariants of Compact  Calabi-Yau Threefolds with Three Deformations
+Transition Amplitudes in de Sitter Space
+Renormalization group approach to matrix models via noncommutative space
+Non-holomorphic deformations of special geometry and their applications
+The R^2 phase-diagram of QEG and its spectral dimension
+String Partition Functions, Hilbert Schemes, and Affine Lie Algebra  Representations on Homology Groups
+Notes on Emergent Gravity
+Large Randall-Sundrum II Black Holes
+Hidden and Generalized Conformal Symmetry of Kerr-Sen Spacetimes
+IIA Perspective On Cascading Gauge Theory
+Soft branes in supersymmetry-breaking backgrounds
+Nonplanar integrability at two loops
+The a-theorem and conformal symmetry breaking in holographic RG flows
+Anomalous High Energy Dependence in Inflationary Density Perturbations
+The Benefits of Stress: Resolution of the Lifshitz Singularity
+Single-valued harmonic polylogarithms and the multi-Regge limit
+On Topologically Massive Spin-2 Gauge Theories beyond Three Dimensions
+A Vacuum Solution with Torsion in Higher-Derivative Gravity
+A Generalized Gauge Theory of Gravity
+Two- and three-point functions in two-dimensional Landau-gauge  Yang-Mills theory: Continuum results
+Casimir force induced on a plane by an impenetrable flux tube of finite  radius
+On the 3-point functions of Aging Dynamics and the AdS/CFT  Correspondence
+A Deformation of Sasakian Structure in the Presence of Torsion and  Supergravity Solutions
+Off-Critical Logarithmic Minimal Models
+Racah coefficients and extended HOMFLY polynomials for all 5-, 6- and  7-strand braids
+Refined conformal spectra in the dimer model
+Dynamics of a Dirac Fermion in the presence of spin noncommutativity
+On the integrability of two-dimensional models with U(1)xSU(N) symmetry
+Some classes of renormalizable tensor models
+CP(N-1) model on finite interval in the large N limit
+The influence of the chameleon field potential on transition frequencies  of gravitationally bound quantum states of ultra-cold neutrons
+BPS States in Omega Background and Integrability
+Chiral vortices in relativistic hydrodynamics
+A unified quantum theory I: gravity interacting with a Yang-Mills field
+Lectures on Mirror Symmetry and Topological String Theory
+The vector BPS baby Skyrme model
+One-loop divergences in the Galileon model
+Freudenthal Gauge Theory
+Duality Invariant M-theory: Gauged supergravities and Scherk-Schwarz  reductions
+On the physical mechanism underlying Asymptotic Safety
+On the Hamiltonian form of 3D massive gravity
+BRST cohomology of systems with secondary constraints
+The Operator Product Expansion of the Lowest Higher Spin Current at  Finite N
+The SO(6) Scalar Product and Three-Point Functions from Integrability
+Noncommutative Harmonic Oscillator at Finite Temperature: A Path  Integral Approach
+On gravitational interactions for massive higher spins in $AdS_3$
+Complex Factorisation and Recursion for One-Loop Amplitudes
+Tensor Network and Black Hole
+M-theory and Type IIA Flux Compactifications
+Minimally helicity violating, maximally simple scalar amplitudes in N=4  SYM
+AdS Field Theory from Conformal Field Theory
+Canonical bifurcation in higher derivative, higher spin, theories
+String States on AdS_3 x S^3 from the Supergroup
+Scalar and Spinor Field Actions on Fuzzy $S^4$: fuzzy $CP^3$ as a  $S^2_F$ bundle over $S^4_F$
+Laplacians on discrete and quantum geometries
+Multi-Spin Strings in AdS_4*CP^3 and its b-deformation
+Invariant Differential Operators for Non-Compact Lie Algebras  Parabolically Related to Conformal Lie Algebras
+Balanced electric-magnetic dihole in Kaluza-Klein theory
+A Universal Behavior of Half BPS Probes in the Superstar Ensemble
+The homogeneity theorem for supergravity backgrounds
+Incompressible Navier-Stokes Equations from Einstein Gravity with  Chern-Simons Term
+On finite size corrections to the dispersion relations of giant magnon  and single spike on g-deformed T^{1,1}
+Collective Excitations of Holographic Quantum Liquids in a Magnetic  Field
+On Hexagonal Structures in Higher Dimensional Theories
+Wess-Zumino-Witten Model for Galilean Conformal Algebra
+Relativistic invariance of the vacuum
+Superpropagator and superconformal invariants
+Correlation functions of local composite operators from generalized  unitarity
+Minimal unitary representation of D(2,1;l) and its SU(2)  deformations and d=1, N=4 superconformal models
+Surface Terms of Quartic Quasitopological Gravity and Thermodynamics of  Nonlinear Charged Rotating Black Branes
+Comments on the holographic shear viscosity to entropy density ratio
+Laplace-Beltrami operator and exact solutions for branes
+Quark confinement due to non-Abelian magnetic monopoles in SU(3)  Yang-Mills theory
+On the refined counting of graphs on surfaces
+"Induced" N=4 conformal supergravity
+Conjecture on Hidden Superconformal Symmetry of N=4 Supergravity
+Plasma photoemission from string theory
+Cosmology on Compact and Stable Supergravity Background
+Supersymmetric theories on squashed five-sphere
+Higher derivative theories with constraints : Exorcising Ostrogradski's  Ghost
+N=2 Moonshine
+Perturbed Wess-Zumino-Witten models and N=(2,2) supersymmetric sigma  models on Lie groups with complex structure
+Six-loop Konishi anomalous dimension from the Y-system
+Bipartite Riemann-Finsler geometry and Lorentz violation
+Evidence for a family of SO(8) gauged supergravity theories
+Six and seven loop Konishi from Luscher corrections
+Accidental Inflation in the Landscape
+Holographic screens in ultraviolet self-complete quantum gravity
+Compressible Matter at a Holographic Interface
+Momentum-space entanglement for interacting fermions at finite density
+Supersymmetric Q-balls and boson stars in (d+1) dimensions
+On the supersymmetry of the Dirac-Kepler problem plus a Coulomb-type  scalar potential in D+1 dimensions and the generalized Lippmann-Johnson  operator
+Three and Four Point Functions of Stress Energy Tensors in D=3 for the  Analysis of Cosmological Non-Gaussianities
+Chern-Simons Spinor Electrodynamics in the Light-Cone Gauge
+The Effective Field Theory of Dark Energy
+Electromagnetic interaction in theory with Lorentz invariant CPT  violation
+Massless hook field in AdS(d+1) from the holographic perspective
+Singlet Vector Models on Lens Spaces
+Thermodynamics of higher spin black holes in 3D
+Spectral expansion for finite temperature two-point functions and  clustering
+Some phenomenological aspects of Type IIB/F-theory string  compactifications
+(Pre-)Hilbert spaces in twistor quantization
+Adinkra (In)Equivalence From Coxeter Group Representations: A Case Study
+Gravitational Coleman-Weinberg Potential and It's Finite Temperature  Counterpart
+Interacting Scalar Fields in the Context of Effective Quantum Gravity
+Unitary and Renormalizable Theory of Higher Derivative Gravity
+Holographic Wilson Loops, Dielectric Interfaces, and Topological  Insulators
+Warped Conformal Field Theory
+Hyperscaling violation : a unified frame for effective holographic  theories
+On cubic AdS interactions of mixed-symmetry higher spins
+Solid Inflation
+Loops, Polytopes and Splines
+Non-relativistic holography from Horava gravity
+String theory embeddings of non-relativistic field theories and their  holographic Horava gravity duals
+The Seiberg-Witten Kahler Potential as a Two-Sphere Partition Function
+Non-geometric strings, symplectic gravity and differential geometry of  Lie algebroids
+Ungauging black holes and hidden supercharges
+Holographic superconductors with $z=2$ Lifshitz scaling
+Resonant non-Gaussianity with equilateral properties
+A simple model of pointlike spacetime defects and implications for  photon propagation
+Graviton multi-point functions at the AdS boundary
+Spin-k/2-spin-k/2 SU(2) two-point functions on the torus
+Instantons on the 5-sphere and M5-branes
+Superconductivity phenomenon induced by external in-plane magnetic field  in (2+1)-dimensional Gross--Neveu type model
+Localization of Matter Fields in the 6D Standing Wave Braneworld
+Test of Emergent Gravity
+On the Integrability of Planar N=2 Superconformal Gauge Theories
+D1-D5-P microstates at the cap
+Dilaton emission and absorption from far-from-equilibrium non-abelian  plasma
+Exact results for perturbative partition functions of theories with  SU(2|4) symmetry
+Groupoids, Loop Spaces and Quantization of 2-Plectic Manifolds
+A longitudinal gauge degree of freedom and the Pais Uhlenbeck field
+S-parameter, Technimesons, and Phase Transitions in Holographic Tachyon  DBI Models
+A 5d/2d/4d correspondence
+Four-dimensional gravity on supersymmetric dilatonic domain walls
+Charged black holes in nonlinear massive gravity
+Thermodynamics of the brane in Chern-Simons matter theories with flavor
+Brane instantons and fluxes in F-theory
+Solving the QCD non-perturbative flow equation as a partial differential  equation and its application to the dynamical chiral symmetry breaking
+A physical approach to the classification of indecomposable Virasoro  representations from the blob algebra
+Superembedding Formalism and Supertwistors
+Bosonic string theory with dust
+Holographic Vortex Liquids and Superfluid Turbulence
+Theories with Finite Green's Functions
+Black hole solutions of N=2, d=4 supergravity with a quantum correction,  in the H-FGK formalism
+Torus Knots and the Topological Vertex
+Thermal soliton correlation functions in theories with a Z(N) symmetry
+All-loop Bethe ansatz equations for AdS3/CFT2
+Extra dimensions, black holes and fireballs at the LHC
+2d TQFT structure of the superconformal indices with outer-automorphism  twists
+Weak Coupling, Degeneration and Log Calabi-Yau Spaces
+Models of Particle Physics from Type IIB String Theory and F-theory: A  Review
+Holography of Species in Cascading DGP
+The String Landscape: On Formulas for Counting Vacua
+Lovelock gravity is equivalent to Einstein gravity coupled to form  fields
+Knotted domain strings
+The toroidal block and the genus expansion
+Black Hole Macro-Quantumness
+Kink mass quantum shifts from SUSY quantum mechanics
+Anomalies and divergences in N=4 supergravity
+Holographic thermalization of mutual and tripartite information in 2d  CFTs
+Harmonic R-matrices for Scattering Amplitudes and Spectral  Regularization
+Truncated Conformal Space Approach for Perturbed Wess-Zumino-Witten  $SU(2)_k$ Models
+Global structure of the multiverse and the measure problem
+Higher loop mixed correlators in N=4 SYM
+K-Decompositions and 3d Gauge Theories
+Superconductivity, Superfluidity and Holography
+The OPEs of Spin-4 Casimir Currents in the Holographic SO(N) Coset  Minimal Models
+Central charges and RG flow of strongly-coupled N=2 theory
+The noncovariant gauges in 3-form theories
+Non-anticommutative ABJ Theory
+On abelianizations of the ABJM model and applications to condensed  matter
+Noneuclidean Tessellations and their relation to Reggie Trajectories
+The generalised Kahler geometry of Wess-Zumino-Witten models
+Cluster Transformations from Bipartite Field Theories
+Entanglement Entropy of a Massive Fermion on a Torus
+Phase Structure in a Dynamical Soft-Wall Holographic QCD Model
+New Confinement Phases from Singular SCFT
+Note on Thermodynamics Method of Black Hole/CFT Correspondence
+Gauged supergravities in 5 and 6 dimensions from generalised  Scherk-Schwarz reductions
+Time and a Temporally Statistical Quantum Geometrodynamics
+Abelian Projections of the Mass-deformed ABJM theory and Weakly Curved  Dual Geometry
+Holography without translational symmetry
+Timelike U-dualities in Generalised Geometry
+Faddeev-Popov ghosts in quantum gravity beyond perturbation theory
+Lee-Wick radiation induced bouncing universe models
+Supersymmetric BCS: Effects of an external magnetic field and spatial  fluctuations of the gap
+Walls, Lines, and Spectral Dualities in 3d Gauge Theories
+Evidence for and Obstructions to Non-Linear Partially Massless Gravity
+Holographic applications of logarithmic conformal field theories
+Stable Bound Orbits of Massless Particles around a Black Ring
+Casimir interaction energies for magneto-electric d-function plates
+Macroscopic superpositions and black hole unitarity
+Cosmological perturbations in warm-tachyon inflationary universe model  with viscous pressure on the brane
+A Renormalisable Cosmodynamic Model
+Slow-Roll Inflation in Non-geometric Flux Compactification
+Topological charge membranes and Goldstone boson propagation in QCD
+Electromagnetic quasinormal modes of rotating black strings and the  AdS/CFT correspondence
+Restricted Galileons
+Algebraic Curves for Factorized String Solutions
+Inflation with negative potentials and the signature reversal symmetry
+Periods and Hodge structures in perturbative quantum field theory
+On quantum deformations of (anti-)de Sitter algebras in (2+1) dimensions
+Deformed N=2 theories, generalized recursion relations and S-duality
+Hydrodynamic gradient expansion in gauge theory plasmas
+The Coulomb problem on a 3-sphere and Heun polynomials
+DBI equations and holographic DC conductivity
+Thermodynamics of Higher Spin Black Holes in AdS$_3$
+Landau energy levels for twisted N-enlarged Newton-Hooke space-time
+Supersymmetric Cubic Galileons Have Ghosts
+Thermalization of Causal Holographic Information
+The black M2-M5 ring intersection spins
+Formulation of Electrodynamics with an External Source in the Presence  of a Minimal Measurable Length
+Conical Defects, Black Holes and Higher Spin (Super-)Symmetry
+Holographic description of the Schwinger effect in electric and magnetic  fields
+Towards finite field theory: the Taylor-Lagrange regularization scheme
+Quantum Stabilization of a Closed Nielsen-Olesen String
+A Simple Method for One-Loop Renormalization in Curved Space-Time
+Living in Curved Momentum Space
+Branes, Weights and Central Charges
+Non-geometric fluxes versus (non)-geometry
+Duality phases and halved maximal D=4 supergravity
+Superluminality in the Bi- and Multi- Galileon
+Tensionless Strings and Galilean Conformal Algebra
+Energy Positivity, Non-Renormalization, and Holomorphy in  Lorentz-Violating Supersymmetric Theories
+Scalar and fermion contributions to the vacuum energy
+Rigid particle revisited: extrinsic curvature yields the Dirac equation
+Elimination of the Landau pole in QCD with the spontaneously generated  anomalous three-gluon interaction
+Entanglement and Particle Identity: A Unifying Approach
+Stuckelberg Fields on the Effective p-brane
+Tau-functions for Quiver Gauge Theories
+Fermionic vacuum polarization by a cosmic string in anti-de Sitter  spacetime
+Black Hole Monodromy and Conformal Field Theory
+New N=1 Dualities
+Almost BPS but still not renormalized
+Logarithmic Conformal Field Theory: Beyond an Introduction
+Index Theory and Supersymmetry of 5D Horizons
+Aging Logarithmic Galilean Field Theories
+ADM reduction of Einstein action and black hole entropy
+D3/D7 Branes at Singularities: Constraints from Global Embedding and  Moduli Stabilisation
+Black branes dual to striped phases
+CP violation in the models of fermion localization on a domain wall  (brane)
+An Analysis of Characteristics in Non-Linear Massive Gravity
+Note on the emergence of cosmic space in modified gravities
+Self-accelerating cosmologies and hairy black holes in ghost-free  bigravity and massive gravity
+Higher Spin Gravity and Exact Holography
+Stability of the holographic description of the Universe
+Covariant action and equations of motion for the eleven dimensional  multiple M0-brane system
+Symmetry breaking in de Sitter: a stochastic effective theory approach
+Nonassociativity, Malcev Algebras and String Theory
+Grand Symmetry, Spectral Action, and the Higgs mass
+Low Energy Description of Quantum Gravity and Complementarity
+Cosmological Perturbations in Extended Massive Gravity
+S-duality Improved Superstring Perturbation Theory
+A Smooth Landscape: Ending Saddle Point Inflation Requires Features to  be Shallow
+On the metric of the space of states in a modified QCD
+On the cosmology of massive gravity
+Diffractive Effects and General Boundary Conditions in Casimir Energy
+Smooth U(1) Gauge Potentials on the de Sitter Spacetime
+Exact Solutions in Massive Gravity
+The BPS spectrum of the 4d N=2 SCFT's H_1, H_2, D_4, E_6, E_7, E_8
+On Cosmological Perturbations of Quasidilaton
+Conformal Blocks in the Large D Limit
+Emergent Lorentz invariance from Strong Dynamics: Holographic examples
+The $\mathcal{N}=1$ algebra $\mathcal{W}_\infty[m]$ and its  truncations
+The tensor hierarchy algebra
+The Quantum Closet
+Cohomology ring of the BRST operator associated to the sum of two pure  spinors
+Higher order singletons, partially massless fields and their boundary  values in the ambient approach
+Massive gravity: a General Analysis
+Master equation for the Unruh-DeWitt detector and the universal  relaxation time in de Sitter space
+2d Index and Surface operators
+Mixed Galileons and Spherically Symmetric Solutions
+Glueball and meson propagators of any spin in large-N QCD
+Effective theory for the Vainshtein mechanism from the Horndeski action
+3d TQFT from 6d SCFT
+On perturbative instability of Pope-Warner solutions on Sasaki-Einstein  manifolds
+Reading between the lines of four-dimensional gauge theories
+Second order transport from anomalies
+Symmetries and gravitational Chern-Simons Lagrangian terms
+Superconformal quantum field theory in curved spacetime
+Elliptic genera of two-dimensional N=2 gauge theories with rank-one  gauge groups
+On the gauge symmetries of the spinning particle
+Lessons from an Extended Heterotic Mini-Landscape
+Heterotic Calabi-Yau Compactifications with Flux
+Effects of parity violation on non-gaussianity of primordial  gravitational waves in Horava-Lifshitz gravity
+Doubling of the Algebra and Neutrino Mixing within Noncommutative  Spectral Geometry
+Special Polynomial Rings, Quasi Modular Forms and Duality of Topological  Strings
+D-brane Bremsstrahlung
+Bimetric gravity doubly coupled to matter: theory and cosmological  implications
+Cosmology or Catastrophe? A non-minimally coupled scalar in an  inhomogeneous universe
+W Symmetry and Integrability of Higher spin black holes
+Supersymmetric AdS Black Rings
+Hawking Radiation from Small Black Holes at Strong Coupling and Large N
+A construction of integrated vertex operator in the pure spinor  sigma-model in AdS5xS5
+BTZ Black Hole Entropy from a Chern-Simons Matrix Model
+Note on the production of scale-invariant entropy perturbation in the  Ekpyrotic universe
+Linear growth of entanglement entropy in holographic thermalization  captured by horizon interiors and mutual information
+Stringy Membranes in AdS/CFT
+Double Trace Flows and Holographic RG in dS/CFT correspondence
+VSFT revisited
+Wheeler-De Witt equation and AdS/CFT correspondence
+Euler-Heisenberg lagrangian through Krein regularization
+The Stringy Instanton Partition Function
+Pulsating Strings With Angular Momenta
+Extended higher spin holography and Grassmannian models
+Thermodynamics of Charged Kalb Ramond AdS black hole in presence of  Gauss-Bonnet coupling
+Passing through the Firewall
+Black Hole Information as Topological Qubits
+Cool horizons for entangled black holes
+Excluding Black Hole Firewalls with Extreme Cosmic Censorship
+Geometric Engineering in Toric F-Theory and GUTs with U(1) Gauge Factors
+Gauge theory of Kaluza-Klein and winding modes
+The role of vector fields in modified gravity scenarios
+Line bundle twisted chiral de Rham complex and bound states of D-branes  on toric manifolds
+Elementary Particles as Gates for Universal Quantum Computation
+Englert-type solutions of d=11 supergravity
+On Magnetostatics of Chiral Media
+Double Field Theory Inspired Cosmology
+Zero sound in strange metals with hyperscaling violation from holography
+Non-linear superposition law and Skyrme crystals
+Fractional vortex molecules and vortex polygons in a baby Skyrme model
+Noisy soccer balls
+Inside and outside stories of black-branes in anti de Sitter space
+Hyperbolic deformation of the strip-equation and the accessory  parameters for the torus
+Quartic Quasi-topological Gravity, Black Holes and Holography
+(Non) supersymmetric quantum quenches
+Kinetic theory and evolution of cosmological fluctuations with neutrino  number asymmetry
+On higher spin realizations of K(E10)
+Composite-particle hydrodynamics from dyonic black branes
+Unoriented Quivers with Flavour
+The dilaton Wess-Zumino action in higher dimensions
+Electroelasticity of Charged Black Branes
+U-duality covariant gravity
+3d dualities from 4d dualities for orthogonal groups
+Relativistic Fluids, Superfluids, Solids and Supersolids from a Coset  Construction
+Information-Entropic Stability Bound for Compact Objects: Application to  Q-Balls and the Chandrasekhar Limit of Polytropes
+The abelian confinement mechanism revisited: new aspects of the  Georgi-Glashow model
+Dynamical Supersymmetry Breaking with T_N Theory
+Quark confinement via magnetic color-flavor locking
+Vector Fields in Kerr/CFT Correspondence
+On the amplitudes in N=(1,1) D=6 SYM
+Resurgence in QFT: Unitons, Fractons and Renormalons in the Principal  Chiral Model
+New solvable sigma models in plane--parallel wave background
+Calabi-Yau Geometries: Algorithms, Databases, and Physics
+Color Glass Condensate in Schwinger-Keldysh QCD
+Quantum field theory in curved graphene spacetimes, Lobachevsky  geometry, Weyl symmetry, Hawking effect, and all that
+Electromagnetic two-point functions and the Casimir effect in  Friedmann-Robertson-Walker cosmologies
+Are entangled particles connected by wormholes? Support for the ER=EPR  conjecture from entropy inequalities
+Cosmic censorship in Lovelock theory
+The Dimensional Reduction and Kahler Metric of Forms In Flux and  Warping
+Conformal field theories in a periodic potential: results from  holography and field theory
+On the power spectrum of inflationary cosmologies dual to a deformed CFT
+Searching for Fermi Surfaces in Super-QED
+Spin 1/2 quasinormal mode frequencies in Schwarzschild-AdS spacetime
+Abelian discrete symmetries Z_{N} and Z_{nR} from string orbifolds
+Integrable lattice models from four-dimensional field theories
+Critical String In (3+1)+4 Dimensions
+Supersymmetric Chern-Simons Vortex Systems and Extended Supersymmetric  Quantum Mechanics Algebras
+Localization of relativistic particles and uncertainty relations
+Heterotic warped Eguchi-Hanson spectra with five-branes and line bundles
+Exploring Spiral Inflation in String Theory
+Even-dimensional General Relativity from Born-Infeld gravity
+Higher spin fields with reversed spin-statistics relation
+Casimir torque in weak coupling
+Holographic Vitrification
+A Note on Holographic Weyl Anomaly and Entanglement Entropy
+Spin-Statistics Correlations in Various Noncommutative Field Theories
+Heterotic Model Building: 16 Special Manifolds
+On limitation of mass spectrum in non-Hermitian $\cal PT$-symmetric  models with the $g_5$-dependent mass term
+Some New Light-cone Time Dependent Solutions in Deformed pp-wave  Backgrounds
+Non-linear Kaluza-Klein theory for dual fields
+On the N=2 superconformal index and eigenfunctions of the elliptic RS  model
+Born-Infeld Monopoles and Instantons
+On the supersymmetrization of inflation in f(R) gravity
+Running Couplings in Quantum Theory of Gravity Coupled with Gauge Fields
+A Holographic Model of Two-Band Superconductor
+Monodromy of Inhomogeneous Picard-Fuchs Equations
+Infrared Saturation and Phases of Gauge Theories with BRST Symmetry
+Twining Genera of (0,4) Supersymmetric Sigma Models on K3
+Supersymmetric non-Abelian multiwaves in D=3 AdS superspace
+Accidental Inflation from Kahler Uplifting
+Super Yang-Mills, division algebras and triality
+Remarks on generalized uncertainty principle induced from constraint  system
+Binding energy of a holographic deuteron and tritium in anti-de-Sitter  space/conformal field theory (AdS/CFT)
+An Index for Intersecting Branes in Matrix Models
+Self-gravitating branes again
+Uplifting the baryonic branch: a test for backreacting anti-D3-branes
+Membranes from monopole operators in ABJM theory: large angular momentum  and M-theoretic AdS_4/CFT_3
+A stringy perspective on the quantum integrable model/gauge  correspondence
+Conformal couplings of Galileons to other degrees of freedom
+A quick guide to defect orbifolds
+BPS Wilson Loop T-dual to Spinning String in AdS5xS5
+Quantum corrections in Galileon theories
+Supersymmetric Lifshitz-like backgrounds from N=4 SYM with heavy quark  density
+The excitation spectrum of rotating strings with masses at the ends
+General N = 2 Supersymmetric Quantum Mechanical Model: Supervariable  Approach to its Off-Shell Nilpotent Symmetries
+Infrared Correlations in de Sitter Space: Field Theoretic vs. Stochastic  Approach
+The spectrum of low spin mesons at finite temperature in holographic  noncommutative QCD
+Vacuum structure in a chiral R+R^n modification of pure supergravity
+Massive spin-2 theories
+Elliptic Fibrations with Rank Three Mordell-Weil Group: F-theory with  U(1) x U(1) x U(1) Gauge Symmetry
+Generalized Hitchin system, Spectral curve and N=1 dynamics
+Vector Beta function
+Stochastic quantization and holographic Wilsonian renormalization group  of massless fermions in AdS
+Three-body forces from a classical nonlinear field
+Weighted Laplacians, cocycles and recursion relations
+Numerical evaluation of spherical GJMS determinants for even dimensions
+(0,2) Trialities
+Conformal gravity holography in four dimensions
+N=2 supersymmetric gauge theories and quantum integrable systems
+Lifshitz black holes in higher spin gravity
+Holographic entanglement and causal information in coherent states
+Quantum field theory based on birefringent modified Maxwell theory
+Relative information at the foundation of physics
+Quantum Action Principle with Generalized Uncertainty Principle
+Influence of Kaluza Scalar on the Raychaudhuri Equation
+Vacuum alignment and phase structure of holographic bi-layers
+Spectroscopy of Masses and Couplings during Inflation
+Twistor relative locality
+Emergent Symmetry on Black Hole Horizons
+Cubic-interaction-induced deformations of higher-spin symmetries
+The five dimensional universal hypermultiplet and the cosmological  constant problem
+Highly Effective Actions
+Theory of $U(1)$ gauged Q-balls revisited
+Inflation in the Generalized Inverse Power Law Scenario
+Quantization In Finite Volumes Using Symplectic Quantization Programm
+Superconformal Inflationary $a$-Attractors
+Constraints on the R-charges of Free Bound States from the  Romelsberger Index
+Primordial Anisotropies in Gauged Hybrid Inflation
+Comments on Information Erasure in Black Hole
+Non-Perturbative Quantum Geometry
+Scheme independent consequence of the NSVZ relation for N=1 SQED with  N_f flavors
+Holographic thermalization with a chemical potential in Gauss-Bonnet  gravity
+Lectures on Holographic Space Time
+On new maximal supergravity and its BPS domain-walls
+Geonic black holes and remnants in Eddington-inspired Born-Infeld  gravity
+Broken spacetime symmetries and elastic variables
+Explicit de Sitter Flux Vacua for Global String Models with Chiral  Matter
+Bounds on Operator Dimensions in 2D Conformal Field Theories
+Stability of magnetic condensation and mass generation for confinement  in SU(2) Yang-Mills theory
+Coordinate-space singularities of massless gauge theories
+Extremal Surfaces And Entanglement Entropy
+First order formalism for the holographic duals of defect CFTs
+Asymmetrical bloch branes and the hierarchy problem
+Infinite Statistics Condensate as a Model of Dark Matter
+Nilpotent and absolutely anticommuting symmetries in the  Freedman-Townsend model: augmented superfield formalism
+Ramond-Ramond S-matrix elements from T-dual Ward identity
+Non-Relativistic Holography -- A Group-Theoretical Perspective
+Entropy current and equilibrium partition function in fluid dynamics
+Supermembrane in D=5: component action
+Quantum Field Theory in de Sitter spacetime
+Microscopic approach to string gas cosmology
+Stability of the Schwarzschild-de Sitter black hole in the dRGT massive  gravity theory
+Constraints on RG Flow for Four Dimensional Quantum Field Theories
+Finite field-energy of a point charge in QED
+AdS/CFT and Landau Fermi liquids
+Massive fermions in 2+1 dimensions
+Casimir-like corrections to the classical tensions of the strings and  membranes
+Linear Spinor Fields in Relativistic Dynamics
+BPS solution for eleven-dimensional supergravity with a conical defect  configuration
+Quantization of Emergent Gravity
+Non-perturbative procedure for stable $K$-brane
+Small Treatise on Spin-3/2 Fields and their Dual Spectral Functions
+Scalar Charges in Asymptotic AdS Geometries
+Black holes as bubble nucleation sites
+Twistor Theory of the Airy Equation
+Tachyon potentials from a supersymmetric FRW model
+Black brane solutions governed by fluxbrane polynomials
+Holographic Renyi entropy in AdS$_3$/LCFT$_2$ correspondence
+Disentangling the Black Hole Vacuum
+Hyperkahler Sigma Model and Field Theory on Gibbons-Hawking Spaces
+Conformal symmetry of JIMWLK Evolution at NLO
+Fixing the Quantum Three-Point Function
+Some field-theoretical aspects of two types of the Poincare group  representations
+Unitarity methods for scattering in two dimensions
+The formulation of gauge-Higgs unification with dynamical boundary  conditions
+On the Vainshtein mechanism in the minimal model of massive gravity
+Gravitational Forces on a Codimension-2 Brane
+Quantum Entanglement of Local Operators in Conformal Field Theories
+Quasi-Normal Modes for Subtracted Rotating and Magnetised Geometries
+Universal scaling in fast quantum quenches in conformal field theories
+Note on explicit form of entanglement entropy in the RST model
+Pomeron in the N=4 SYM at strong couplings
+Coupling a QFT to a TQFT and Duality
+The Canonical Structure of the Superstring Action
+How does Casimir energy fall? IV. Gravitational interaction of  regularized quantum vacuum energy
+Higher spin entanglement entropy from CFT
+Mirror Symmetry in Three Dimensions via Gauged Linear Quivers
+BPS solitons in a Dirac-Born-Infeld action
+Chern-Simons and Born-Infeld gravity theories and Maxwell algebras type
+On the Ground State Wave Function of Matrix Theory
+Bosonic (p - 1)-forms in Einstein-Cartan theory of gravity
+Microscopic and Macroscopic Entropy of Extremal Black Holes in String  Theory
+Invariant Differential Operators for Non-Compact Lie Groups: the Reduced  SU(4,4) Multiplets
+Central Charge Extended Supersymmetric Structures for Fundamental  Fermions Around non-Abelian Vortices
+2 + 1 dimensional gravity from Maxwell and semi-simple extension of the  Poincare gauge symmetric models
+Non-local gravity and dark energy
+Example of an explicit function for confining classical Yang-Mills  fields with quantum fluctuations in the path integral scheme
+Coloured loops in 4D and their effective field representation
+Inflationary Cosmology after Planck 2013
+Planck 2013 and Superconformal Symmetry
+Effective field theory of modified gravity with two scalar fields: dark  energy and dark matter
+Starobinsky Model in N=2 Supergravity
+Natural Inflation and Universal Hypermultiplet
+On the next-to-leading holographic entanglement entropy in  $AdS_{3}/CFT_{2}$
+Spontaneous symmetry breaking in dual-core baby-Skyrmion systems
+Tunnel determinants from spectral zeta functions. Instanton effects in  quantum mechanics
+More on the Abrikosov Strings with Non-Abelian Moduli
+Exact Free Energies of Statistical Systems on Random Networks
+Lifshitz Quartic Quasitopological Black Holes
+Supersymmetry Breaking and the Cosmological Constant
+Towards holographic duals for anomalous supercurrents
+Dynamical generation of wormholes with charged fluids in quadratic  Palatini gravity
+Universality and Borel Summability of Arbitrary Quartic Tensor Models
+Weak solution of the non-perturbative renormalization group equation to  describe the dynamical chiral symmetry breaking
+Vertex Operators, $\mathbb{C}^3$ Curve and Topological Vertex
+The Scalar Field Effective Action for The Spontaneous Symmetry Breaking  in Gravity
+Wong's Equations and Charged Relativistic Particles in Non-Commutative  Space
+Dynamical Mass Reduction in the Massive Yang-Mills Spectrum in 1+1  dimensions
+Semi-classical analysis of the inner product of Bethe states
+BCS Instability and Finite Temperature Corrections to Tachyon Mass in  Intersecting D1-Branes
+Henon-Heiles potential as a bridge between nontopological solitons of  different types
+Photon and photino as Nambu-Goldstone zero modes in an emergent SUSY QED
+Zeta Function Regularization of Photon Polarization Tensor for a  Magnetized Vacuum
+Deformations with Maximal Supersymmetries Part 1: On-shell Formulation
+Universal Thermal Corrections to Single Interval Entanglement Entropy  for Conformal Field Theories
+Emergent Lorentz Signature, Fermions, and the Standard Model
+Coulomb branch Hilbert series and Hall-Littlewood polynomials
+Anomalies of discrete symmetries in three dimensions and group  cohomology
+Cosmological observables in multi-field inflation with a non-flat field  space
+Chiral symmetry in $SU(N_c)$ gauge theories at high density
+Inflamagnetogenesis redux: Unzipping sub-Planckian inflation via various  cosmoparticle probes
+Quantum Dimension as Entanglement Entropy in 2D CFTs
+Deformations with Maximal Supersymmetries Part 2: Off-shell Formulation
+Can a stationary Bianchi black brane have momentum along the direction  with no translational symmetry?
+Three-dimensional Lorentz-violating action
+Viable cosmology in bimetric theory
+Unitary W-algebras and three-dimensional higher spin gravities with spin  one symmetry
+Revisiting Soliton Contributions to Perturbative Amplitudes
+Localized Plasma Balls
+Nonperturbative black hole entropy and Kloosterman sums
+Flux Tube Spectra from Approximate Integrability at Low Energies
+A superspace description of Chern-Simons theory in Batalin-Vilkovisky  formulation
+Non-Abelian discrete flavor symmetries of 10D SYM theory with magnetized  extra dimensions
+Fluid dynamics on ultrastatic spacetimes and dual black holes
+RG flows in 6D N=(1,0) SCFT from SO(4) half-maximal 7D gauged  supergravity
+Supersymmetric backgrounds from 5d N=1 supergravity
+Holographic Dual of the Eguchi-Kawai Mechanism
+Gravity duals of supersymmetric gauge theories on three-manifolds
+Open Verlinde line operators
+Fluctuation and dissipation in de Sitter space
+An Extension of the Faddeev-Jackiw Technique to Fields in Curved  Spacetimes
+On q-deformed infinite-dimensional n-algebra
+On the Structure Constants of Volume Preserving Diffeomorphism Algebra
+Approaching conformal window of $O(n)\times O(m)$ symmetric  Landau-Ginzburg models from conformal bootstrap
+Non-Hermitian $\cal PT$-symmetric relativistic Quantum mechanics with a  maximal mass in an external magnetic field
+Cosmic acceleration with a negative cosmological constant in higher  dimensions
+BCS instabilities of electron stars to holographic superconductors
+On sinh-Gordon Thermodynamic Bethe Ansatz and fermionic basis
+A CSP Field Theory with Helicity Correspondence
+Instanton Effects in Orbifold ABJM Theory
+Heterotic NS5-branes from closed string tachyon condensation
+A universal correction to higher spin entanglement entropy
+A Cosmological Slavnov-Taylor Identity
+Adinkra `Color' Confinement In Exemplary Off-Shell Constructions Of 4D,  ${\cal N}$ = 2 Supersymmetry Representations
+Spontaneous Compactification of Bimetric Theory
+Monodromy Inflation in SUSY QCD
+Brane worlds in gravity with auxiliary fields
+Phenomenological studies in the matrix models
+Chaotic Inflation in No-Scale Supergravity with String Inspired Moduli  Stabilization
+Black holes in five-dimensional Palatini $f(R)$ gravity and implications  for the AdS/CFT correspondence
+Generating scale-invariant tensor perturbations in the non-inflationary  universe
+High scale inflation, model-independent string axion, and QCD axion with  domain wall number one
+Effect of the twist operator in the D1D5 CFT
+The a-theorem for the four-dimensional gauged vector model
+Bertotti-Robinson and soliton string solutions of $D=5$ minimal  supergravity
+Chaotic Inflation in Supergravity after Planck and BICEP2
+Exploring eternal stability with the simple harmonic universe
+D7-Brane Moduli Space in Axion Monodromy and Fluxbrane Inflation
+Dualities and fivebrane instantons
+De Sitter Space Without Dynamical Quantum Fluctuations
+Super-Adiabatic Particle Number in Schwinger and de Sitter Particle  Production
+Scattering and bound states of fermions in a mixed vector-scalar smooth  step potential
+Nontrivial Quantization of $ph^4_n$, $n\ge2$
+Cosmology in rotation-invariant massive gravity with non-trivial  fiducial metric
+Competition between s-wave order and d-wave order in holographic  superconductors
+Charged scalar field instability between the event and cosmological  horizons
+Restricted Weyl invariance in four-dimensional curved spacetime
+T-duality Transformation of Gauged Linear Sigma Model with F-term
+Calculation of size for bound-state constituents
+Topological Dirac variables in Abelian $U(1)$ theory
+Finite BRST-antiBRST Transformations in Lagrangian Formalism
+Instanton Bags, High Density Holographic QCD and Chiral Symmetry  Restoration
+Pair production of Dirac particles in a d+1-dimensional noncommutative  space-time
+Inflation in Supergravity with a Single Chiral Superfield
+Combining Universal and Odd RR Axions for Aligned Natural Inflation
+Berry Phase, Lorentz Covariance, and Anomalous Velocity for Dirac and  Weyl Particles
+Exact Solutions for Non-Hermitian Dirac-Pauli Equation in an intensive  magnetic field
+Scalar Casimir densities induced by a cylindrical shell in de Sitter  spacetime
+The complete AdS_3 x S^3 x T^4 worldsheet S-matrix
+D-Flation
+Spacetime Average Density (SAD) Cosmological Measures
+Localization in Supergravity and Quantum $AdS_4/CFT_3$ Holography
+Calabi-Yau threefolds with large h^{2, 1}
+Relative entropy in higher spin holography
+Enveloping branes and braneworld singularities
+Umbral Moonshine and K3 Surfaces
+Finite-size giant magnons on e-deformed AdS_5 x S^5
+Dilatonic Topological Defects in 3+1 Dimensions and their Embeddings
+First order flow for non-extremal AdS black holes and mass from  holographic renormalization
+Vacuum Energy Sequestering: The Framework and Its Cosmological  Consequences
+Brane Curvature Corrections to the $\mathcal{N}=1$ Type II/F-theory  Effective Action
+Towards the One-loop Kahler Metric of Calabi-Yau Orientifolds
+A matrix model for strings beyond the c=1 barrier: the spin-s Heisenberg  model on random surfaces
+On neutral scalar radiation by a massive orbiting star in extremal  Kerr-Newman black hole
+Exact fermionic Green's functions from holograpny
+Gravitational tests of the Generalized Uncertainty Principle
+On localization of universal scalar fields in a tachyonic de Sitter  thick braneworld
+Indefinite theta functions for counting attractor backgrounds
+Large-Field Inflation and Supersymmetry Breaking
+The Tensor Theory Space
+Higher Gauge Theory and M-Theory
+Integrable S-matrices, massive and massless modes and the AdS_2 x S^2  superstring
+Classical irregular block, N=2 pure gauge theory and Mathieu equation
+Analytic DC thermo-electric conductivities in holography with massive  gravitons
+Entanglement entropy of subtracted geometry black holes
+Conformal Blocks and Negativity at Large Central Charge
+A Hilbert space setting for interacting higher spin fields and the Higgs  issue
+Heterotic $a$'-corrections in Double Field Theory
+BPS M5-branes as Defects for the 3d-3d Correspondence
+On finite interquark potential in $D=3$ driven by a minimal length
+The role of radiative corrections on an extradimensional SUSY model
+Polarized solutions and Fermi surfaces in holographic Bose-Fermi systems
+Attractive holographic $c$-functions
+The D^6 R^4 term from three loop maximal supergravity
+Causal Structure and Birefringence in Nonlinear Electrodynamics
+More on the Matter of 6D SCFTs
+Towards U(N|M) knot invariant from ABJM theory
+Real-Time Feynman Path Integral Realization of Instantons
+Constraining non--BPS interactions from counterterms in three loop  maximal supergravity
+Deformed Carroll particle from 2+1 gravity
+Inflation, quintessence, and the origin of mass
+Second-order partition function of a non-interacting chiral fluid in 3+1  dimensions
+Quantum spectral dimension in quantum field theory
+Spectral Networks with Spin
+Jeans Instability in Superfluids
+Quantum Corrections in Galileons from Matter Loops
+Horava-Lifshitz Black Hole Hydrodynamics
+Asymptotic safety and the cosmological constant
+Solvable Relativistic Hydrogenlike System in Supersymmetric Yang-Mills  Theory
+Damped Electromagnetic fluctuations in the early universe?
+(A)dS Holography with a Cut-off
+The large level limit of Kazama-Suzuki models
+RG-Whitham dynamics and complex Hamiltonian systems
+Gauge Invariance and Equations of Motion for Closed String Modes
+Appearance of Boulware-Deser ghost in bigravity with doubly coupled  matter
+Covariant constraints for generic massive gravity and analysis of its  characteristics
+Non-Commutative Geometry in Higher Dimensional Quantum Hall Effect as  A-Class Topological Insulator
+Off-shell Amplitudes in Superstring Theory
+Aspects of electrostatics in BTZ geometries
+Exact Results in Quiver Quantum Mechanics and BPS Bound State Counting
+An Alternative to Particle Dark Matter
+Information-Entropic Measure of Energy-Degenerate Kinks in Two-Field  Models
+Instantons on conical half-flat 6-manifolds
+Entanglement entropy production in gravitational collapse: covariant  regularization and solvable models
+The periodic sl(2|1) alternating spin chain and its continuum limit as a  bulk Logarithmic Conformal Field Theory at c=0
+Supergravity Actions with Integral Forms
+Infrared lessons for ultraviolet gravity: the case of massive gravity  and Born-Infeld
+Supersymmetry, shape invariance and the hypergeometric equation
+Release of physical modes from unphysical fields
+Parametric Representation of Rank d Tensorial Group Field Theory:  Abelian Models with Kinetic Term $\sum_{s}|p_s| + m$
+Winding vacuum energies in a deformed O(4) sigma model
+Two Dimensional Horava-Lifshitz Black Hole Solutions
+Localised anti-branes in non-compact throats at zero and finite T
+Super-Renyi Entropy & Wilson Loops for N=4 SYM and their Gravity Duals
+Order $a'$ heterotic domain walls with warped nearly Kahler  geometry
+The classical Yang-Baxter equation and the associated Yangian symmetry  of gauged WZW-type theories
+Anisotropic heavy quark potential in strongly-coupled $\mathcal{N}=4$  SYM in a magnetic field
+Infrared Dynamics of a Large N QCD Model, the Massless String Sector and  Mesonic Spectra
+Exact partition functions of Higgsed 5d $T_N$ theories
+Component on shell actions of supersymmetric 3-brane I. 3-brane in D=6
+The Verlinde formula in logarithmic CFT
+Conformal Invariance in noncommutative geometry and mutually interacting  Snyder Particles
+Bosonization and the Berry connection in two-dimensional QED
+Holographic backgrounds from D-brane probes
+Compactified Reduction from Five to Four Space-Time Dimensions of the  Antisymmetric Tensor Field
+A New Model for Elliptic Fibrations with a Rank One Mordell-Weil Group:  I. Singular Fibers and Semi-Stable Degenerations
+How Well Can We Really Determine the Scale of Inflation?
+Bigravity in tetrad Hamiltonian formalism and matter couplings
+Higher Spin Currents in Orthogonal Wolf Space
+Kac boundary conditions of the logarithmic minimal models
+The absence of IR renormalons in gauge theories on $\mathbb R^3\times  \mathbb S^1$ and what it means for resurgence
+Particle in a cavity in one-dimensional bandlimited quantum mechanics
+On D-brane moduli stabilisation
+Black holes and the double copy
+Field theoretic description of partially reflective surfaces
+Analog geometry in an expanding fluid from AdS/CFT perspective
+Field theoretic description of electromagnetic boundaries: The Casimir  effect between dissimilar mirrors from external potentials
+Quark-Quark Forces in Quantum Chromodynamics
+Reformulations of Yang-Mills Theories with Space-time Tensor Fields
+On the Singularity Structure of Maximally Supersymmetric Scattering  Amplitudes
+On a Gopakumar-Vafa form of partition function of Chern-Simons theory on  classical and exceptional lines
+Resurgence and Holomorphy: From Weak to Strong Coupling
+Hamiltonian formalisms and symmetries of the Pais-Uhlenbeck oscillator
+Matrix model holography
+3D Field Theories with Chern--Simons Term for Large $N$ in the Weyl  Gauge
+Integrable deformations of the AdS$_5\times$S$^5$ superstring and the  classical Yang-Baxter equation -- Towards the gravity/CYBE correspondence --
+Spin and dynamics in relativistic quantum theories
+The Casimir effect in light-front quantization
+Grassmannians for scattering amplitudes in 4d $\mathcal{N}=4$ SYM and 3d  ABJM
+A new mechanism of realizing inflationary universe with recourse to  backreaction of quantized free fields -- Inflation without inflaton --
+Superfluid and Metamagnetic Phase Transitions in $o$-deformed  Gauged Supergravity
+Hypercharge Flux in Heterotic Compactifications
+General Covariance Constraints on Cosmological Correlators
+Energy-momentum balance in particle - domain wall perforating collision
+Effect of GUP on the Kepler problem and a variable minimal length
+A path integral approach to the Langevin equation
+Gauge Transformation of Double Field Theory for Open String
+Hyperscaling violating Lifshitz holography
+Higher Spin Currents in Wolf Space for Generic N
+Thermodynamics of large-$N$ gauge theories on a sphere: weak versus  strong coupling
+Determination of Boundary Contributions in Recursion Relation
+Vacuum Fluctuations as Quantum Probes in FRWL space-times
+KK-monopoles and G-structures in M-theory/type IIA reductions
+Entropic destruction of heavy quarkonium in non-Abelian plasma from  holography
+An Extremal Chiral Primary Three-Point Function at Two-loops in ABJ(M)
+Warped Conformal Field Theory as Lower Spin Gravity
+Entanglement is not Enough
+Looking for Integrability on the Worldsheet of Confining Strings
+Inflationary gravitational waves in the effective field theory of  modified gravity
+Analytic study on backreacting holographic superconductors with dark  matter sector
+Thick brane in $f(R)$ gravity with Palatini dynamics
+Dual gravity and E11
+Entropy vs Gravitational Action: Do Total Derivatives Matter?
+Geometry and the Quantum: Basics
+Holographic Polarons, the Metal-Insulator Transition and Massive Gravity
+Towards holographic higher-spin interactions: Four-point functions and  higher-spin exchange
+Hydrodynamic Regimes of Spinning Black D3-Branes
+Schrodinger Holography with $z=2$
+B-modes and the sound speed of primordial fluctuations
+New braneworld models in the presence of auxiliary fields
+BRST-BFV Lagrangian Formulations for Higher Spin Fields subject to  two-column Young Tableaux
+Canonical brackets of a toy model for the Hodge theory without its  canonical conjugate momenta
+Finite BRST-antiBRST Transformations for the Theories with Gauge Group
+Extended Supersymmetry in Gapped and Superconducting Graphene
+Quantization of conical spaces in 3D gravity
+A New Instability of the Topological black hole
+Dipole Modulation in Tensor Modes: Signatures in CMB Polarization
+Exact Correlators of BPS Operators from the 3d Superconformal Bootstrap
+Unruh effect in a real scalar field with the Higgs type potential on the  de Sitter space
+Universal Bounds in Even-Spin CFTs
+Towards realistic models from Higher-Dimensional theories with Fuzzy  extra dimensions
+Entropy discrepancy and total derivatives in trace anomaly
+Towards a $C$-function in 4D quantum gravity
+Supergravity one-loop corrections on AdS_7 and AdS_3, higher spins and  AdS/CFT
+Multi-particle systems in $k$-Poincare inspired by 2+1D gravity
+Son-Yamamoto relation and Holographic RG flows
+Localization of a supersymmetric gauge theory in the presence of a  surface defect
+Calculation of the multiplicative anomaly
+A Transition from Flat Space to Curved One
+Exoflops in Two Dimensions
+Holographic entanglement entropy and the internal space
+Phase transitions in a holographic s+p model with backreaction
+Thermodynamical First Laws of Black Holes in Quadratically-Extended  Gravities
+Stringy Instanton Counting and Topological Strings
+Adinkras, 0-branes, Holoraumy and the SUSY QFT/QM Correspondence
+Exact Results in Supersymmetric Gauge Theories
+Unruh effect without Rindler horizon
+The different phases of hairy black holes in AdS5 space
+Vanishing Beta Function curves from the Functional Renormalisation Group
+Collective Modes of Chiral Kinetic Theory in Magnetic Field
+Spectral Dimension of kappa-deformed space-time
+The theta-exact Seiberg-Witten maps at the e3 order
+Chiral Thirring-Wess model with Faddeevian Regularization
+Tinkertoys for the Twisted $E_6$ Theory
+Renyi Entropy of Free Compact Boson on Torus
+The Imaginary Potential and Thermal Width of Moving Quarkonium from  Holography
+A Simple Holographic Superconductor with Momentum Relaxation
+Polynomial Structure of Topological String Partition Functions
+Classical Boltzmann equation and high-temperature QED
+Path integrals for actions that are not quadratic in their time  derivatives
+Caloron correction to the effective potential in thermal gluodynamics
+Ehrenfest Theorem in Precanonical Quantization
+PT-symmetric $\varphi^4$ theory in d=0 dimensions
+Application of Coherent State Approach for the cancellation of Infrared  divergences to all orders in LFQED
+Anisotropic universe space-time non-commutativity and scalar particle  creation in the presence of a constant electric field
+Threshold corrections, generalised prepotentials and Eichler integrals
+Notes on the BMS group in three dimensions: II. Coadjoint representation
+Misner-Sharp Mass and the Unified First Law in Massive Gravity
+Second-Order Fermions and the Standard Model
+Higgs mechanism and renormalization group flow: are they compatible?
+Counting ghosts in the "ghost-free" non-local gravity
+Vacua and correlators in hyperbolic de Sitter space
+Higher Derivative Corrections to Charged Fluids in 2n Dimensions
+Quantum-corrected finite entropy of noncommutative acoustic black holes
+Field Theory on Newton-Cartan Backgrounds and Symmetries of the Lifshitz  Vacuum
+Phase structures of the black D$p$-D$(p+4)$-brane system in various  ensembles I: thermal stability
+Introduction to Holographic Superconductor Models
+A model for massless higher spin field interacting with a geometrical  background
+Decoupling Solution Moduli of Bigravity
+F-theory from Fundamental Five-branes
+Kac-Moody and Borcherds Symmetries of Six-Dimensional Chiral  Supergravity
+Direct Integration for Mirror Curves of Genus Two and an Almost  Meromorphic Siegel Modular Form
+Yang-Mills theory in the maximal Abelian gauge in presence of scalar  matter fields
+Finiteness of Entanglement Entropy in Quantum Black Hole
+Some three-point correlation functions in the eta-deformed AdS_5 x S^5
+Classical Inflationary and Ekpyrotic Universes in the No-Boundary  Wavefunction
+Adiabatic hydrodynamics: The eightfold way to dissipation
+Notophs of N = 8 supergravity
+Graviton Amplitudes from Collinear Limits of Gauge Amplitudes
+Critical String from Non-Abelian Vortex in Four Dimensions
+Forms and algebras in (half-)maximal supergravity theories
+Entropy of a self-gravitating electrically charged thin shell and the  black hole limit
+Chiral Ground States in a Frustrated Holographic Superconductor
+Thermal Interpretation of Schwinger Effect in Near-Extremal RN Black  Hole
+Universally Finite Gravitational & Gauge Theories
+Foliated backgrounds for M-theory compactifications (II)
+Foliated backgrounds for M-theory compactifications (I)
+Tunneling decay rate in quantum cosmology
+Inflationary cosmology in modified gravity theories
+NonAbelian Vortices, Large Winding Limits and Aharonov-Bohm Effects
+On $\mathcal{N}=1$ susy backgrounds with $AdS$ factor from nonabelian  T-duality
+Entanglement Entropy and Duality in AdS(4)
+Emergent Spacetime and Cosmic Inflation
+The Black Ring is Unstable
+M-theory on non-Kahler manifolds
+Convergent series for QCD
+The Solution of the Relativistic Schrodinger Equation for the  $d'$-Function Potential in 1-dimension Using Cutoff Regularization
+Constraints on Axion Inflation from the Weak Gravity Conjecture
+On the functional renormalization group for the scalar field on curved  background with non-minimal interaction
+All-loop order critical exponents for massless scalar field theory with  Lorentz violation in the BPHZ method
+F-theory with Worldvolume Sectioning
+On the construction of integrated vertex in the pure spinor formalism in  curved background
+Widening the Axion Window via Kinetic and Stuckelberg Mixings
+Constructing Galileons
+Resolution of SU(2) monopole singularities by oxidation
+Cosmological Non-Constant Problem: Cosmological bounds on TeV-scale  physics and beyond
+A perturbative description of the deconfinement transition in Yang-Mills  theories
+Constraining de Sitter Space in String Theory
+Mutation, Witten Index, and Quiver Invariant
+Higher Spin Currents in Wolf Space: Part III
+The geometric Langlands twist in five and six dimensions
+Holographic Entanglement Entropy for noncommutative Anti-de Sitter space
+On skein relations in class S theories
+Infinite circumference limit of conformal field theory
+Quadratic $a'$-Corrections to Heterotic Double Field Theory
+Cuts and coproducts of massive triangle diagrams
+A renormalization group improved computation of correlation functions in  theories with non-trivial phase diagram
+Transmission coefficient and two-fold degenerate discrete spectrum of  spin-1 bosons in a double-step potential
+On rigid supersymmetry and notions of holomorphy in five dimensions
+A Surprising Relation for the Effective Coupling Constants of N=2 Super  Yang-Mills Theories
+ABJ Theory in the Higher Spin Limit
+Scaling dimensions of monopole operators in the $\mathbb{CP}^{N_b - 1}$  theory in $2+1$ dimensions
+Colored HOMFLY polynomials of knots presented as double fat diagrams
+Spherical collapse of small masses in the ghost-free gravity
+Magnetic Phenomena in Holographic Superconductivity with Lifshitz  Scaling
+A holographic description of the Schwinger effect in a confining gauge  theory
+Emergent Spacetime: Reality or Illusion?
+Gravitational Correction to Fuzzy String in Metastable Brane  Configuration
+Higgs Inflation and General Initial Conditions
+Chaotic Information Processing by Extremal Black Holes
+Weakly Broken Galileon Symmetry
+Geometry of 6D RG Flows
+Unimodular Gravity Redux
+The full CPT-even photon sector of the Standard Model Extension at  finite temperature
+DKP Equation in a Rotating Frame with Magnetic Cosmic String Background
+Dual Pairs of Gauged Linear Sigma Models and Derived Equivalences of  Calabi-Yau threefolds
+Thermodynamics of static dyonic AdS black holes in the $o$-deformed  Kaluza-Klein gauged supergravity theory
+Geometries from field theories
+The many faces of brane-flux annihilation
+Non-Minimally Coupled Pseudoscalars in AdS_4 for Instantons in CFT_3
+Three-dimensional super Yang-Mills with unquenched flavor
+Realization of Holographic Entaglement Temperature for a Nearly-AdS  boundary
+Multifield Dynamics in Higgs-otic Inflation
+Infinitely many N=1 dualities from $m+1-m=1$
+Isomonodromic $t$-functions and $W_N$ conformal blocks
+Topological vertex for Higgsed 5d $T_N$ theories
+Pauli-Villars Regularization and Light Front Hamiltonian in  (2+1)-dimensional Yang-Mills Theory
+On classical and semiclassical properties of the Liouville theory with  defects
+A rotating hairy AdS3 black hole with the metric having only one Killing  vector field
+Non-commutative Gravity and the Einstein-Van der Waals Equation of State
+CP Violation and Baryogenesis in the Presence of Black Holes
+Mass-gap for black hole formation in higher derivative and ghost free  gravity
+On modular completion of generalized flux orbits
+The double scaling limit of the multi-orientable tensor model
+New Branches of Massive Gravity
+Effective field theory of quantum gravity coupled to scalar  electrodynamics
+The Yang-Mills gauge theory in DFR noncommutative space-time
+Entanglement entropy of Wilson surfaces from bubbling geometries in  M-theory
+Matrix model and Holographic Baryons in the D0-D4 background
+Holographic charge transport in non commutative gauge theories
+The $\mathrm{AdS}_3\times \mathrm{S}^3\times  \mathrm{S}^3\times\mathrm{S}^1$ worldsheet S matrix
+Schur Indices, BPS Particles, and Argyres-Douglas Theories
+Classical and tree-level approaches to gravitational deflection in  higher-derivative gravity
+The parity-preserving massive QED3: vanishing beta-function and no  parity anomaly
+On gauged linear sigma models with torsion
+Towards effective topological field theory for knots
+Three Point Functions in the Large N=4 Holography
+On a relativistic scalar particle subject to a Coulomb-type potential  given by Lorentz symmetry breaking effects
+Non-minimal derivative couplings of the composite metric
+Notes on conformal invariance of gauge fields
+Generalized non-minimal couplings in Randall-Sundrum scenarios
+Supergravity divergences, supersymmetry and automorphic forms
+Local Langlands Duality and a Duality of Conformal Field Theories
+Cutoff for Extensions of Massive Gravity and Bi-Gravity
+Surviving in a Metastable de Sitter Space-Time
+Identification of Bulk coupling constant in Higher Spin/ABJ  correspondence
+Infinite number of MSSMs from heterotic line bundles?
+Cosmological Attractors and Initial Conditions for Inflation
+A gauge field theory of fermionic Continuous-Spin Particles
+Gauge and Gravity Amplitude Relations
+Absence of disorder-driven metal-insulator transitions in simple  holographic models
+An Extremal N=2 Superconformal Field Theory
+New supersymmetric vacua on solvmanifolds
+AdS/CFT and the geometry of an energy gap
+Non-linear regime of the Generalized Minimal Massive Gravity in critical  points
+Holographic Renyi Entropy of Single Interval on Torus: with W symmetry
+A Note on Holographic Non-Relativistic Goldstone Bosons
+Implications of N=4 superconformal symmetry in three spacetime  dimensions
+Thermoelectric DC conductivities and Stokes flows on black hole horizons
+Developments of theory of effective prepotential from extended  Seiberg-Witten system and matrix models
+Factorisation and holomorphic blocks in 4d
+General Mirror Pairs for Gauged Linear Sigma Models
+Holographic mutual information in global Vaidya-BTZ spacetime
+Loop Integrands for Scattering Amplitudes from the Riemann Sphere
+Quantization of BMS$_3$ orbits: a perturbative approach
+The effective action of warped M-theory reductions with  higher-derivative terms - Part II
+Covariant Constraints on Hole-ography
+Partially Massless Monopoles and Charges
+Vacuum condensates as a mechanism of spontaneous supersymmetry breaking
+How to build a compact brane
+Resurgence in sine-Gordon quantum mechanics: Exact agreement between  multi-instantons and uniform WKB
+Exact results for Wilson loops in orbifold ABJM theory
+Boundary Operators of BCFW Recursion Relation
+Super Virasoro Algebras From Chiral Supergravity
+Quantum spectral curve for (q,t)-matrix model
+On Natural Inflation and Moduli Stabilisation in String Theory
+Spherically Symmetric Solutions in Higher-Derivative Gravity
+Bootstrapping 3D Fermions
+Superluminality in dilatationally invariant generalized Galileon  theories
+Classical and quantum theory of the massive spin-two field
+On the new version of Generalized Zwei-Dreibein Gravity
+IR Horava-Lifshitz gravity coupled to Lorentz violating matter: A  spectral action approach
+Fluxes in F-theory Compactifications on Genus-One Fibrations
+Thermofield dynamics and Gravity
+Bosonization approach for "atomic collapse" in graphene
+Charged Dilatonic Black Holes in Gravity's Rainbow
+Quantum Electron Transport and Duality in a One-Dimensional Interacting  System
+Complete action for open superstring field theory
+Simplifying one-loop amplitudes in superstring theory
+Speed limit in internal space of domain walls via all-order effective  action of moduli motion
+Construction of 4d SYM compactified on open Riemann surfaces by the  superfield formalism
+Structural Theory of 2-d Adinkras
+Witten Diagrams Revisited: The AdS Geometry of Conformal Blocks
+Canonical Realization of BMS Symmetry. Quadratic Casimir
+Universal Bounds on Operator Dimensions in General 2D Conformal Field  Theories
+Instanton corrections to the effective action of N=4 SYM
+The Quantum Hall Effect in Supersymmetric Chern-Simons Theories
+Universal entanglement for higher dimensional cones
+Covariant computation of effective actions in Horava-Lifshitz gravity
+Unstable Behaviours of Classical Solutions in Spinor-type Conformal  Invariant Fermionic Models
+Conformal Invariance in the Long-Range Ising Model
+A Precision Test of AdS/CFT with Flavor
+Causality Constraints in Conformal Field Theory
+Bosonization, cocycles, and the D1-D5 CFT on the covering surface
+Starobinsky-Type Inflation from $a'$-Corrections
+Generalised universality of gauge thresholds in heterotic vacua with and  without supersymmetry
+Saddle point inflation from higher order corrections to  Higgs/Starobinsky inflation
+Stress-tensor OPE in N=2 Superconformal Theories
+Hair-brane Ideas on the Horizon
+D6-Brane Model Building on Z(2)xZ(6): MSSM-like and Left-Right Symmetric  Models
+A Note on the Dirac-like Equation in Non-commutative Geometry
+A coarse-grained generalized second law for holographic conformal field  theories
+Holographic de Sitter Geometry from Entanglement in Conformal Field  Theory
+Lax pairs on Yang-Baxter deformed backgrounds
+Wilson loops at strong coupling for curved contours with cusps
+Inhomogeneous Thermal Quenches
+On the decoupling of heavy states in higher-derivative supersymmetric  field theories
+Exact results for ${\cal N}=2$ supersymmetric gauge theories on compact  toric manifolds and equivariant Donaldson invariants
+Constraining parameters of effective field theory of inflation from  Planck data
+Proof of a modular relation between 1-, 2- and 3-loop Feynman diagrams  on a torus
+Recursion Relations for Conformal Blocks
+Interpolating Helicity Spinors Between the Instant Form and the  Light-front Form
+F-Theory, Spinning Black Holes and Multi-string Branches
+Four-dimensional Quantum Gravity with a Cosmological Constant from  Three-dimensional Holomorphic Blocks
+4d Quantum Geometry from 3d Supersymmetric Gauge Theory and Holomorphic  Block
+T-duality Constraints on Higher Derivatives Revisited
+New Supersymmetric Localizations from Topological Gravity
+Hawking from Catalan
+Universal Entanglement and Boundary Geometry in Conformal Field Theory
+Exceptional Calabi--Yau spaces: the geometry of $\mathcal{N}=2$  backgrounds with flux
+Normalizability analysis of the generalized quantum electrodynamics from  the causal point of view
+Thermodynamical Structure of AdS Black Holes in Massive Gravity with  Stringy Gauge-Gravity Corrections
+Pair Production In Near Extremal Charged Black Holes
+BRST symmetry of Unimodular Gravity
+Nonlocal dynamics and infinite non-relativistic conformal symmetries
+Evolution of Q \bar{Q} Potential in N=4 Super Yang-Mills Plasma
+Holographic Thermalization with Weyl Corrections
+Canonical formulation for nonrelativistic Euler fluids and Schwinger  type conditions
+Holographic Complexity Of Cold Hyperbolic Black Holes
+Relating Berkovits and $A_\infty$ Superstring Field Theories; Large  Hilbert Space Perspective
+Aspects of moduli stabilization in type IIB string theory
+Microstate solutions from black hole deconstruction
+Hermitian separability and transition from singlet to adjoint BFKL  equations in $\mathcal{N}=4$ super Yang-Mills Theory
+Combing gravitational hair in 2+1 dimensions
+A Perfect Bounce
+Towards a violation of cosmic censorship
+Scaling Relations in Two-Dimensional Relativistic Hydrodynamic  Turbulence
+Towards the gravity/CYBE correspondence beyond integrability --  Yang-Baxter deformations of $T^{1,1}$
+Negative heat capacity for a Klein-Gordon oscillator in non-commutative  complex phase space
+On the Derivative Expansion for the Electromagnetic Casimir Free Energy  at High Temperatures
+Mordell integrals and Giveon-Kutasov duality
+Holographic Mutual Information for Singular Surfaces
+Non-abelian T-duality of Pilch-Warner background
+Generalisation of the Yang-Mills Theory
+Self-adjointness and the Casimir effect with confined quantized spinor  matter
+Renyi Entropy of Free (2,0) Tensor Multiplet and its Supersymmetric  Counterpart
+Abelian duality on globally hyperbolic spacetimes
+The Geometry of 6D, N = (1,0) Superspace and its Matter Couplings
+AdS/CFT and local renormalization group with gauge fields
+Yang-Baxter invariance of the Nappi-Witten model
+Elliptic Virasoro Conformal Blocks
+Casimir Effect in Horava-Lifshitz-like theories
+String partition functions in Rindler space and maximal acceleration
+An elliptic Virasoro symmetry in 6d
+Probing N=2 superconformal field theories with localization
+On the classification of planar rank-1 d=4 N=2 superconformal field  theories
+Three-dimensional gravity and deformations of relativistic symmetries
+Vibrational quantisation of the B=7 Skyrmion
+Entanglement Entropy in Warped Conformal Field Theories
+DC Conductivity of Magnetised Holographic Matter
+A nonlinear dynamics for the scalar field in Randers spacetime
+Hamiltonian dynamics of the parametrized electromagnetic field
+Some reference formulas for the generating functions of canonical  transformations
+Thermodynamics of noncommutative high-dimensional AdS black holes with  non-Gaussian smeared matter distributions
+Maximal abelian and Curci-Ferrari gauges in momentum subtraction at  three loops
+Emergent space-time and the supersymmetric index
+Fermionic and bosonic mass deformations of N=4 SYM and their bulk  supergravity dual
+Unitarity violation at the Wilson-Fisher fixed point in 4-epsilon  dimensions
+Chaos in Classical D0-Brane Mechanics
+Recent developments in bimetric theory
+Entanglement Entropy of the Gross-Neveu Model
+Relaxion Monodromy and the Weak Gravity Conjecture
+Ultraviolet and Infrared Divergences in Superstring Theory
+Non-Abelian Electric-Magnetic Duality with Supersymmetry in 4D and 10D
+Extremal Higher Spin Black Holes
+Alternative Approach to Noncommutative Quantum Mechanics on a Curved  Space
+Baryons, monopoles and dualities in Chern-Simons-matter theories
+Marginal and Irrelevant Disorder in Einstein-Maxwell backgrounds
+Generalized geometry and non-symmetric gravity
+Lax pairs for deformed Minkowski spacetimes
+No-Go Theorem for Gauss-Bonnet Inflation without Inflaton Potential
+Large N behavior of mass deformed ABJM theory
+Unified limiting form of graviton radiation at extreme energies
+AdS perturbations, isometries, selection rules and the Higgs oscillator
+Holographic Three-Jet Events in Strongly Coupled N=4 Yang-Mills Plasma
+Remarks on scale separation in flux vacua
+Aharonov-Bohm phases in a quantum LC circuit
+Hamiltonian Truncation Study of the Phi^4 Theory in Two Dimensions II.  The Z_2-Broken Phase and the Chang Duality
+Cosmology with orthogonal nilpotent superfields
+Inflatino-less Cosmology
+Geometric constraints on the space of N=2 SCFTs II: Construction of  special Kahler geometries and RG flows
+Tracking Dark Energy from Axion-Gauge Field Couplings
+Bounds on topological Abelian string-vortex and string-cigar from  information-entropic measure
+Semiclassical structure constants in the eta-deformed AdS_5 x S^5:  Leading finite-size corrections
+Analytical study on holographic superfluid in AdS soliton background
+Holographic thermalization from non relativistic branes
+Renormalized coupling constants for 3D scalar lph^4 field theory  and pseudo-e-expansion
+Quasi-Local Conserved Charges of Spin-3 Topologically Massive Gravity
+A Gamma Class Formula for Open Gromov-Witten Calculations
+Fluctuations in a Cosmology with a Space-Like Singularity and their  Gauge Theory Dual Description
+BCJ Relations for One-Loop QCD Integral Coefficients
+F-theory compactifications and central charges of BPS-states
+Entanglement thermodynamics for charged black holes
+The Chern-Simons Number as a Dynamical Variable
+Critical scaling in the large-$N$ $O(N)$ model in higher dimensions and  its possible connection to quantum gravity
+Solitons in an effective theory of CP violation
+Moduli spaces of AdS_5 vacua in N=2 supergravity
+Holographic Chern-Simons Defects
+Comments on Jacobson's "Entanglement equilibrium and the Einstein  equation"
+String theory as a Lilliputian world
+Dynamic cancellation of a cosmological constant and approach to the  Minkowski vacuum
+Emergent spontaneous symmetry breaking and emergent symmetry restoration  in rippling gravitational background
+Axion decay constants away from the lamppost
+Line bundle embeddings for heterotic theories
+Estimation for Entanglement Negativity of Free Fermions
+A singular one-parameter family of solutions in cubic superstring field  theory
+On the Chiral imbalance and Weibel Instabilities
+Counting master integrals: Integration by parts vs. functional equations
+Brane webs in the presence of an $O5^-$-plane and 4d class S theories of  type D
+Resumming instantons in N=2* theories with arbitrary gauge groups
+Anomaly matching condition in two-dimensional systems
+On the Rankin-Selberg method for higher genus string amplitudes
+Universal volume of groups and anomaly of Vogel's symmetry
+A simple model of momentum relaxation in Lifshitz holography
+Standing Waves Braneworlds
+Spinor Lie derivatives and Fermion stress-energies
+Haag's theorem in renormalised quantum field theories
+Segmented strings and the McMillan map
+The DBI Action, Higher-derivative Supergravity, and Flattening Inflaton  Potentials
+Holography Inspired Stringy Hadrons
+Entanglement Entropy of Scattering Particles
+Formation of caustics in k-essence and Horndeski theory
+Matrix Factorizations for Local F-Theory Models
+Composite BPS skyrmions from an exact isospin symmetry breaking
+Stress tensor for a scalar field in a spatially varying background  potential: Divergences, "renormalization," anomalies, and Casimir forces
+Trees
+Iterating free-field AdS/CFT: higher spin partition function relations
+Generalized Gravitational Entropy from Various Matter Fields
+Faddeev-Jackiw Hamiltonian Reduction for Free and Gauged  Rarita-Schwinger Theories
+Cosets of Meromorphic CFTs and Modular Differential Equations
+Higher-spin Interactions from CFT: The Complete Cubic Couplings
+Higher derivative corrections to BPS black hole attractors in 4d gauged  supergravity
+T-branes through 3d mirror symmetry
+On bound-states of the Gross Neveu model with massive fundamental  fermions
+Yangian-type symmetries of non-planar leading singularities
+T-duality simplifies bulk-boundary correspondence: the general case
+Fermions in a mixed vector-scalar double-step potential via continuous  chiral transformation
+Exact BPS domain walls at finite gauge coupling
+On the Monogamy of Holographic $n$-partite Information
+Alternative multiplications and non-associativity in physics
+WKB-like approach to Sauter-Schwinger pair production in  spacetime-dependent fields
+Spectral duality in elliptic systems, six-dimensional gauge theories and  topological strings
+Cherenkov Radiation with Massive, CPT-violating Photons
+The evolution of Brown-York quasilocal energy due to evolution of  Lovelock gravity in a system of M0-branes
+Competition and duality correspondence between chiral and  superconducting channels in (2+1)-dimensional four-fermion models with  fermion number and chiral chemical potentials
+D-instantons in Klebanov-Witten model
+Scalar Multiplet Recombination at Large N and Holography
+The Exact SL(K+3,C) Symmetry of String Scattering Amplitudes
+Non-Abelian Monopoles as the Origin of Dark Matter
+BPS Boojums in N=2 supersymmetric gauge theories
+Disordered Quivers and Cold Horizons
+Numerical tests of the gauge/gravity duality conjecture for D0-branes at  finite temperature and finite N
+Surprises from the resummation of ladders in the ABJ(M) cusp anomalous  dimension
+MHz Gravitational Waves from Short-term Anisotropic Inflation
+Orientifold ABJM Matrix Model: Chiral Projections and Worldsheet  Instantons
+Mordell-Weil Torsion in the Mirror of Multi-Sections
+All Tree-Level MHV Form Factors in $\mathcal{N}=4$ SYM from Twistor  Space
+Spherical Calogero model with oscillator/Coulomb potential: classical  case
+Spherical Calogero model with oscillator/Coulomb potential: quantum case
+Minimal area surfaces dual to Wilson loops and the Mathieu equation
+Conductivities in an anisotropic medium
+SIM$(1)$--VSR Maxwell-Chern-Simons electrodynamics
+Type I/heterotic duality and M-theory amplitudes
+Bit threads and holographic entanglement
+Massive BTZ black hole thermodynamics
+Framing and localization in Chern-Simons theories with matter
+Dynamics of the Area Law of Entanglement Entropy
+IR finite graviton propagators in de Sitter spacetime
+Double screening
+Supersymmetric quantum mechanics of the flux tube
+Cosmological Attractors and Asymptotic Freedom of the Inflaton Field
+Origin of Hawking Radiation: Firewall or Atmosphere?
+The conformal supercurrents in diverse dimensions and conserved  superconformal currents
+Non-spherically symmetric black string perturbations in the large D  limit
+Gauge-invariant Lagrangians for mixed-antisymmetric higher spin fields
+Note on Identities Inspired by New Soft Theorems
+Absence of the Gribov ambiguity in a quadratic gauge
+Consistent Perturbative Fixed Point Calculations in QCD and SQCD
+Phenomenological Lagrangians, gauge models and branes
+Inflationary Birefringence and Baryogenesis
