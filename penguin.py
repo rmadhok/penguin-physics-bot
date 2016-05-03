@@ -1,3 +1,11 @@
+#to do
+# CLEAN UP SCRIPT
+# ADAPT MORE
+# BETTER IF/ELSE
+# FIGURE OUT BASH AND SYS.ARGV
+# CRON JOB
+
+
 import sys
 import random
 from nltk.tokenize import word_tokenize
