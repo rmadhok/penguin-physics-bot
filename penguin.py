@@ -29,13 +29,17 @@ file = open(sys.argv[1], "r")
 sentence = file.readline()
 
 #2a. Set Tweet word limit
-if len(sentence) - 1 > 130:
+if len(sentence) > 130:
     print "Truncating to fit character limit..."
     # Randomly choose short/long limit
     word_limit = random.randint(60,130)
     # Remove last word in case it gets cut off
     sentence   = sentence[0:word_limit].split(" ")
     sentence   = sentence[0:len(sentence)-1]
+    badwords = ['if', 'in', 'when', 'the', 'and', 'when', 
+                'where', 'of', 'for', 'a', 'with']
+    if sentence[:-1] in badwords:
+        sentence = sentence[len(sentence)-1]
     sentence   = ' '.join(sentence)
 
 #2b. Tag part-of-speech from trained NLTK model
@@ -69,9 +73,9 @@ penguinsentence = sentence.replace(nouns[rand][0],penguin,1)
 if len(adjectives) > 0:
     duck = adjectives[random.randint(0,len(adjectives)-1)][0]
 # Replace in longer sentences
-if len(penguinsentence) > 100:
-    print "Inserting duck..."
-    penguinsentence = penguinsentence.replace(duck, "duck")
+    if len(penguinsentence) > 100:
+        print "Inserting duck..."
+        penguinsentence = penguinsentence.replace(duck, "duck")
 
 #Post to Twitter
 print "Posting to Twitter..."
