@@ -2,31 +2,33 @@ import sys
 import random
 from nltk.tokenize import word_tokenize
 from nltk.tag import pos_tag
-import tweepy
-import json
+#import tweepy
+#import json
 import os
 
-#dir = '/Users/rmadhok/Documents/Python/twitterbot'
-#os.chdir(dir)
+dir = 'C:/Users/rmadhok/Documents/penguin-physics-bot'
+os.chdir(dir)
 
 ### 1. Set up API Connection
 # Extract Keys and Tokens
-with open('secrets.json') as keys:
-	SECRETS = json.load(keys)
+#with open('secrets.json') as keys:
+#	SECRETS = json.load(keys)
 
-CONSUMER_KEY    =  SECRETS['consumer_key']
-CONSUMER_SECRET =  SECRETS['consumer_secret']
-ACCESS_TOKEN    =  SECRETS['access_token']
-ACCESS_SECRET   =  SECRETS['access_secret']
+#CONSUMER_KEY    =  SECRETS['consumer_key']
+#CONSUMER_SECRET =  SECRETS['consumer_secret']
+#ACCESS_TOKEN    =  SECRETS['access_token']
+#ACCESS_SECRET   =  SECRETS['access_secret']
 
 # Authenticate 
-auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
-auth.set_access_token(ACCESS_TOKEN, ACCESS_SECRET)
-api = tweepy.API(auth)
+#auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
+#auth.set_access_token(ACCESS_TOKEN, ACCESS_SECRET)
+#api = tweepy.API(auth)
 
 ### 2. Assemble Tweets
-file = open(sys.argv[1], "r")
+#file = open(sys.argv[1], "r")
+file = open('jumble.txt', 'r')
 sentence = file.readline()
+sentence = sentence.capitalize()
 
 #2a. Set Tweet word limit
 if len(sentence) > 130:
@@ -36,10 +38,13 @@ if len(sentence) > 130:
     # Remove last word in case it gets cut off
     sentence   = sentence[0:word_limit].split(" ")
     sentence   = sentence[0:len(sentence)-1]
+
     badwords = ['if', 'in', 'when', 'the', 'and', 'when', 
                 'where', 'of', 'for', 'a', 'with']
-    if sentence[:-1] in badwords:
-        sentence = sentence[len(sentence)-1]
+    lastword = sentence[-1]
+    while lastword in badwords:
+        sentence = sentence[0:len(sentence)-1]
+        lastword = sentence[-1]
     sentence   = ' '.join(sentence)
 
 #2b. Tag part-of-speech from trained NLTK model
@@ -68,15 +73,15 @@ else:
 print "Inserting penguin..."
 penguinsentence = sentence.replace(nouns[rand][0],penguin,1)
 
-
 #2d. Select Adjective to replace
 if len(adjectives) > 0:
     duck = adjectives[random.randint(0,len(adjectives)-1)][0]
-# Replace in longer sentences
+    #Add duck in longer sentences
     if len(penguinsentence) > 100:
         print "Inserting duck..."
         penguinsentence = penguinsentence.replace(duck, "duck")
+        print penguinsentence
 
 #Post to Twitter
 print "Posting to Twitter..."
-api.update_status(penguinsentence)
+#api.update_status(penguinsentence)
