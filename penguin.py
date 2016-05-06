@@ -6,9 +6,6 @@ import tweepy
 import json
 import os
 
-#dir = 'C:/Users/rmadhok/Documents/penguin-physics-bot'
-#os.chdir(dir)
-
 ### 1. Set up API Connection
 # Extract Keys and Tokens
 with open('secrets.json') as keys:
@@ -22,7 +19,7 @@ ACCESS_SECRET   =  SECRETS['access_secret']
 # Authenticate 
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
 auth.set_access_token(ACCESS_TOKEN, ACCESS_SECRET)
-api = tweepy.API(auth)
+api  = tweepy.API(auth)
 
 ### 2. Assemble Tweets
 file = open(sys.argv[1], "r")
