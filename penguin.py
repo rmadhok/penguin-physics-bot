@@ -2,30 +2,30 @@ import sys
 import random
 from nltk.tokenize import word_tokenize
 from nltk.tag import pos_tag
-#import tweepy
-#import json
+import tweepy
+import json
 import os
 
-dir = 'C:/Users/rmadhok/Documents/penguin-physics-bot'
-os.chdir(dir)
+#dir = 'C:/Users/rmadhok/Documents/penguin-physics-bot'
+#os.chdir(dir)
 
 ### 1. Set up API Connection
 # Extract Keys and Tokens
-#with open('secrets.json') as keys:
-#	SECRETS = json.load(keys)
+with open('secrets.json') as keys:
+	SECRETS = json.load(keys)
 
-#CONSUMER_KEY    =  SECRETS['consumer_key']
-#CONSUMER_SECRET =  SECRETS['consumer_secret']
-#ACCESS_TOKEN    =  SECRETS['access_token']
-#ACCESS_SECRET   =  SECRETS['access_secret']
+CONSUMER_KEY    =  SECRETS['consumer_key']
+CONSUMER_SECRET =  SECRETS['consumer_secret']
+ACCESS_TOKEN    =  SECRETS['access_token']
+ACCESS_SECRET   =  SECRETS['access_secret']
 
 # Authenticate 
-#auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
-#auth.set_access_token(ACCESS_TOKEN, ACCESS_SECRET)
-#api = tweepy.API(auth)
+auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
+auth.set_access_token(ACCESS_TOKEN, ACCESS_SECRET)
+api = tweepy.API(auth)
 
 ### 2. Assemble Tweets
-#file = open(sys.argv[1], "r")
+file = open(sys.argv[1], "r")
 file = open('jumble.txt', 'r')
 sentence = file.readline()
 sentence = sentence.capitalize()
@@ -80,8 +80,7 @@ if len(adjectives) > 0:
     if len(penguinsentence) > 100:
         print "Inserting duck..."
         penguinsentence = penguinsentence.replace(duck, "duck")
-        print penguinsentence
 
 #Post to Twitter
 print "Posting to Twitter..."
-#api.update_status(penguinsentence)
+api.update_status(penguinsentence)
