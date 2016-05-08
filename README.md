@@ -1,6 +1,6 @@
 ### TwitterBot
 
-A twitterbot based on this [markov text generator](https://github.com/codebox/markov-text). See the twitter page [here](twitter.com/penguinphysics1).
+A twitterbot based on this [markov text generator](https://github.com/codebox/markov-text). See the twitter page [here](www.twitter.com/penguinphysics1).
 
 #### Description
 * First, I scrape thousands of titles from a database of physics journals into a text file. I know nothing about high energy particle physics, I just needed base text for the tweets. 
