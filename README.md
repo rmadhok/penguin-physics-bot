@@ -9,7 +9,7 @@ A twitterbot based on this [markov text generator](https://github.com/codebox/ma
 * Post to twitter via the API
 * Example of latest tweet: Gravitational instantons constraining de penguin: a codimension-2 brane
 
-note: The scripts are running in a cron job -- a post is made every morning
+note: The scripts are running in a cron job -- a tweet is posted every morning
 
 #### Resources
 * [Twitterbot tutorial](http://www.dototot.com/how-to-write-a-twitter-bot-with-python-and-tweepy/)
